@@ -3,12 +3,6 @@
   "last_updated": "2026-01-10",
   "available_versions": [
     {
-      "id": "kjv",
-      "name": "King James Version",
-      "root_url": "https://raw.githubusercontent.com/eeyyoobb/voc_study/main/bibles/kjv/",
-      "version": 1
-    },
-    {
       "id": "nasv",
       "name": "New Amharic Standard",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
@@ -17,7 +11,7 @@
      {
       "id": "hk",
       "name": "ሕያው ቃል",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.zip",
       "version": 1
     } 
   ]
