@@ -5,14 +5,14 @@
     {
       "id": "kjv",
       "name": "King James Version",
-      "root_url": "https://raw.githubusercontent.com/user/repo/main/bibles/kjv/",
-     "version": 1
+      "root_url": "https://raw.githubusercontent.com/eeyyoobb/voc_study/main/bibles/kjv/",
+      "version": 1
     },
     {
       "id": "nasv",
       "name": "New Amharic Standard",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
-     "version": 1
+      "version": 1
     }
   ]
 }
