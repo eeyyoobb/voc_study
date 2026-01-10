@@ -13,6 +13,12 @@
       "name": "New Amharic Standard",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
       "version": 2
-    }
+    },
+     {
+      "id": "hk",
+      "name": "ሕያው ቃል",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
+      "version": 1
+    } 
   ]
 }
