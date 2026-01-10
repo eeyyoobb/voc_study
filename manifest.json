@@ -1,0 +1,18 @@
+{
+  "server_version": 5,
+  "last_updated": "2026-01-10",
+  "available_versions": [
+    {
+      "id": "kjv",
+      "name": "King James Version",
+      "root_url": "https://raw.githubusercontent.com/user/repo/main/bibles/kjv/",
+      "total_chapters": 1189
+    },
+    {
+      "id": "nasb",
+      "name": "New American Standard",
+      "root_url": "https://raw.githubusercontent.com/user/repo/main/bibles/nasb/",
+      "total_chapters": 1189
+    }
+  ]
+}
