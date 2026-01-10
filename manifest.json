@@ -6,13 +6,13 @@
       "id": "kjv",
       "name": "King James Version",
       "root_url": "https://raw.githubusercontent.com/user/repo/main/bibles/kjv/",
-      "total_chapters": 1189
+     "version": 1,
     },
     {
       "id": "nasv",
       "name": "New Amharic Standard",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
-      "total_chapters": 1189
+     "version": 1,
     }
   ]
 }
