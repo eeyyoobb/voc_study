@@ -6,7 +6,7 @@
       "id": "1954",
       "name": "መጽሐፍ ቅዱስ",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.zip",
-      "version": 1
+      "version": 2
     },
     {
       "id": "kjv",
@@ -16,7 +16,7 @@
     },
     {
       "id": "nasv",
-      "name": "New Amharic Standard",
+      "name": "አዲሱ መደበኛ ትርጉም",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
       "version": 4
     },
