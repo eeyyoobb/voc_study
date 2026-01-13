@@ -18,7 +18,13 @@
       "id": "nasv",
       "name": "አዲሱ መደበኛ ትርጉም",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip",
-      "version": 4
+      "version": 1
+    },
+     {
+      "id": "ref",
+      "name": "cross",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross.zip",
+      "version": 1
     },
      {
       "id": "hk",
