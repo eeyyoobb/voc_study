@@ -19,14 +19,15 @@
     {
       "id": "nasv",
       "name": "አዲሱ መደበኛ ትርጉም",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip", "type": "bbl",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip", 
+      "type": "bbl",
       "version": 1
     },
      {
       "id": "ref",
       "name": "cross",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross.zip",
-        "type": "ref",
+      "type": "crs",
       "version": 1
     },
      {
