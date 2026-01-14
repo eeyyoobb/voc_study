@@ -7,35 +7,35 @@
       "name": "መጽሐፍ ቅዱስ",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.zip",
       "type": "bbl",
-      "version": 5
+      "version": 1
     },
     {
       "id": "kjv",
       "name": "King James Version",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/kjv.zip",
        "type": "bbl",
-      "version": 5
+      "version": 1
     },
     {
       "id": "nasv",
       "name": "አዲሱ መደበኛ ትርጉም",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip", 
       "type": "bbl",
-      "version": 5
+      "version": 1
     },
      {
       "id": "ref",
       "name": "cross",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross.zip",
       "type": "crs",
-      "version": 5
+      "version": 1
     },
      {
       "id": "hk",
       "name": "ሕያው ቃል",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.zip",
         "type": "bbl",
-      "version": 5
+      "version": 1
     } 
   ]
 }
