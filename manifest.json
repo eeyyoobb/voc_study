@@ -5,7 +5,7 @@
     {
       "id": "1954",
       "name": "አማርኛ (1954)",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.zip",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
       "type": "bbl",
        "lan":"am",
       "version": 1
@@ -13,7 +13,7 @@
     {
       "id": "kjv",
       "name": "King James Version",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/kjv.zip",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/kjv.db",
        "type": "bbl",
        "lan":"en",
       "version": 1
@@ -21,7 +21,7 @@
     {
       "id": "nasv",
       "name": "አዲሱ መደበኛ ትርጉም",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.zip", 
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.db", 
       "type": "bbl",
        "lan":"am",
       "version": 1
@@ -29,7 +29,7 @@
      {
       "id": "ref",
       "name": "cross",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross.zip",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross.db",
       "type": "crs",
       "lan":"en",
       "version": 1
@@ -37,7 +37,7 @@
      {
       "id": "hk",
       "name": "ሕያው ቃል",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.zip",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.db",
       "type": "bbl",
       "lan":"am",
       "version": 1
