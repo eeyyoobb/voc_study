@@ -3,20 +3,20 @@
   "last_updated": "2026-01-10",
   "available_versions": [
     {
-      "id": "195",
+      "id": "1954",
       "name": "አማርኛ (1954)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
       "type": "bible",
       "lan":"am",
-      "version": 3
+      "version": 4
     },
     {
-      "id": "1954",
+      "id": "kjv",
       "name": "King James Version",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/kjv.db",
        "type": "bible",
        "lan":"en",
-      "version": 4
+      "version": 1
     },
     {
       "id": "nasv",
