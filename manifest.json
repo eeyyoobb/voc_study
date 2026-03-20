@@ -51,6 +51,14 @@
       "version": 1
     },
      {
+      "id": "blueLetter_his",
+      "name": "ታሪካዊ ንባብ (Blue Letter Historical)",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/blueletter.db",
+      "type": "plan",
+      "lan":"en",
+      "version": 1
+    },
+     {
       "id": "mcheyne",
       "name": "M'Cheyne Bible Reading Plan",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/mcheyne.db",
