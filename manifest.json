@@ -43,9 +43,17 @@
       "version": 1
     } ,
      {
-      "id": "plan",
-      "name": "የንባብ ዕቅድ",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/plan_esv.db",
+      "id": "blueLetter",
+      "name": "Blue Letter OT and NT",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/blueletter.db",
+      "type": "plan",
+      "lan":"en",
+      "version": 1
+    }
+     {
+      "id": "mcheyne",
+      "name": "M'Cheyne Bible Reading Plan",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/mcheyne.db",
       "type": "plan",
       "lan":"en",
       "version": 1
