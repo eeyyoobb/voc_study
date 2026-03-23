@@ -8,7 +8,8 @@
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
       "type": "bible",
       "lan":"am",
-      "version": 4
+      "critical":0,
+      "version": 1
     },
     {
       "id": "kjv",
@@ -16,6 +17,7 @@
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/kjv.db",
        "type": "bible",
        "lan":"en",
+          "critical":0,
       "version": 1
     },
     {
@@ -23,15 +25,15 @@
       "name": "አዲሱ መደበኛ ትርጉም",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.db", 
       "type": "bible",
-       "lan":"am",
-      "version": 2
+       "lan":"am",    "critical":0,
+      "version": 1
     },
      {
       "id": "cross",
       "name": "Biblica Cross References",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross_references.db",
       "type": "ref",
-      "lan":"en",
+      "lan":"en",    "critical":0,
       "version": 1
     },
      {
@@ -39,7 +41,7 @@
       "name": "ሕያው ቃል",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.db",
       "type": "bible",
-      "lan":"am",
+      "lan":"am",    "critical":0,
       "version": 1
     },
      {
@@ -47,7 +49,7 @@
       "name": "Blue Letter OT and NT",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/blueletter.db",
       "type": "plan",
-      "lan":"en",
+      "lan":"en",    "critical":0,
       "version": 1
     },
      {
@@ -55,7 +57,7 @@
       "name": "ታሪካዊ ንባብ (Blue Letter Historical)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/blueletter.db",
       "type": "plan",
-      "lan":"en",
+      "lan":"en",    "critical":0,
       "version": 1
     },
      {
@@ -63,7 +65,7 @@
       "name": "በቀን አንድ ምዕራፍ (1 Chapter Daily)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/onechapter365.db",
       "type": "plan",
-      "lan":"en",
+      "lan":"en",    "critical":0,
       "version": 1
     },
      {
@@ -71,7 +73,7 @@
       "name": "M'Cheyne Bible Reading Plan",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/mcheyne.db",
       "type": "plan",
-      "lan":"en",
+      "lan":"en",    "critical":0,
       "version": 1
     } 
   ]
