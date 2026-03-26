@@ -8,8 +8,8 @@
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
       "type": "bible",
       "lan":"am",
-      "critical":1,
-      "version": 3
+      "critical":0,
+      "version": 1
     },
     {
       "id": "kjv",
@@ -18,7 +18,7 @@
       "type": "bible",
       "lan":"en",
       "critical":0,
-      "version": 2
+      "version": 1
     },
     {
       "id": "nasv",
