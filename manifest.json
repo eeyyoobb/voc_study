@@ -72,7 +72,7 @@
       "id": "greek",
       "name": "በቀን አንድ ምዕራፍ (1 Chapter Daily)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/onechapter365.db",
-      "type": "plan",
+      "type": "bible",
       "lan":"en",    "critical":0,
       "version": 1
     },
