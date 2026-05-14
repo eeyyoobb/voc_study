@@ -28,14 +28,7 @@
        "lan":"am",    "critical":0,
       "version": 1
     },
-     {
-      "id": "cross",
-      "name": "Biblica Cross References",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross_references.db",
-      "type": "ref",
-      "lan":"en",    "critical":0,
-      "version": 1
-    },
+    
      {
       "id": "hk",
       "name": "ሕያው ቃል",
@@ -44,12 +37,25 @@
       "lan":"am",    "critical":0,
       "version": 1
     },
+    
+     {
+      "id": "cross",
+      "name": "Biblica Cross References",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross_references.db",
+      "type": "ref",
+      "lan":"en",    
+      "critical":0,
+      "version": 1
+    },
+
+    
      {
       "id": "blueLetter",
       "name": "Blue Letter OT and NT",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/blueletter.db",
       "type": "plan",
-      "lan":"en",    "critical":0,
+      "lan":"en",    
+      "critical":0,
       "version": 1
     },
      {
@@ -57,7 +63,8 @@
       "name": "ታሪካዊ ንባብ (Blue Letter Historical)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/blueletter.db",
       "type": "plan",
-      "lan":"en",    "critical":0,
+      "lan":"en",    
+      "critical":0,
       "version": 1
     },
      {
@@ -65,7 +72,8 @@
       "name": "በቀን አንድ ምዕራፍ (1 Chapter Daily)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/onechapter365.db",
       "type": "plan",
-      "lan":"en",    "critical":0,
+      "lan":"en",    
+       "critical":0,
       "version": 1
     },
      {
@@ -73,7 +81,8 @@
       "name": "M'Cheyne Bible Reading Plan",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/mcheyne.db",
       "type": "plan",
-      "lan":"en",    "critical":0,
+      "lan":"en",    
+      "critical":0,
       "version": 1
     } 
   ]
