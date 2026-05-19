@@ -1,5 +1,5 @@
 {
-  "server_version": 6,
+  "server_version": 1,
   "last_updated": "2026-01-10",
   "available_versions": [
     {
@@ -9,6 +9,7 @@
       "type": "bible",
       "lan":"am",
       "critical":0,
+      "shortName": "አማርኛ (1954)",
       "version": 1
     },
     {
@@ -18,6 +19,7 @@
       "type": "bible",
       "lan":"en",
       "critical":0,
+      "shortName": "KJV",
       "version": 1
     },
     {
@@ -25,7 +27,9 @@
       "name": "አዲሱ መደበኛ ትርጉም",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.db", 
       "type": "bible",
-       "lan":"am",    "critical":0,
+      "lan":"am",    
+      "critical":0,
+      "shortName": "NASV",
       "version": 1
     },
     
@@ -34,7 +38,9 @@
       "name": "ሕያው ቃል",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.db",
       "type": "bible",
-      "lan":"am",    "critical":0,
+      "lan":"am",    
+      "critical":0,
+       "shortName": "ሕያው ቃል",
       "version": 1
     },
     
