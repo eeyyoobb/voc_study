@@ -32,7 +32,6 @@
       "shortName": "NASV",
       "version": 1
     },
-    
      {
       "id": "hk",
       "name": "ሕያው ቃል",
@@ -40,9 +39,11 @@
       "type": "bible",
       "lan":"am",    
       "critical":0,
-       "shortName": "ሕያው ቃል",
+      "shortName": "ሕያው ቃል",
       "version": 1
     },
+
+
     
      {
       "id": "cross",
@@ -51,6 +52,7 @@
       "type": "ref",
       "lan":"en",    
       "critical":0,
+      "shortName": "",
       "version": 1
     },
 
@@ -62,6 +64,7 @@
       "type": "plan",
       "lan":"en",    
       "critical":0,
+      "shortName": "",
       "version": 1
     },
      {
@@ -71,6 +74,7 @@
       "type": "plan",
       "lan":"en",    
       "critical":0,
+      "shortName": "",
       "version": 1
     },
      {
@@ -79,7 +83,8 @@
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/onechapter365.db",
       "type": "plan",
       "lan":"en",    
-       "critical":0,
+      "critical":0,
+      "shortName": "",
       "version": 1
     },
      {
@@ -89,6 +94,7 @@
       "type": "plan",
       "lan":"en",    
       "critical":0,
+      "shortName": "",
       "version": 1
     } 
   ]
