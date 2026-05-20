@@ -52,7 +52,7 @@
     "shortName": "መጽሓፍ ቅዱስ",
     "version": 0
   },
-{
+   {
     "id": "om",
     "name": "Macaafa Qulqulluu Afaan Oromoo",
     "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/om.db",
@@ -62,7 +62,7 @@
     "shortName": "Macaafa Qulqulluu",
     "version": 0
   },
-{
+  {
     "id": "abc",
     "name": "Apostles' Bible Complete",
     "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/abc.db",
