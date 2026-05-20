@@ -12,16 +12,6 @@
       "shortName": "አማርኛ (1954)",
       "version": 1
     },
-     {
-    "id": "najdad",
-    "name": "bbbbbbbbb",
-    "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nrsv.db",
-    "type": "bible",
-    "lan": "en",
-    "critical": 0,
-    "shortName": "NANANA",
-    "version": 0
-  },
     {
       "id": "kjv",
       "name": "King James Version",
