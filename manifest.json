@@ -555,7 +555,7 @@
       "lan":"en",    
       "critical":0,
       "shortName": "",
-      "version": 1
+      "version": 0
     },
      {
       "id": "blueLetter_his",
@@ -565,7 +565,7 @@
       "lan":"en",    
       "critical":0,
       "shortName": "",
-      "version": 1
+      "version": 0
     },
      {
       "id": "onechapter365",
@@ -575,7 +575,7 @@
       "lan":"en",    
       "critical":0,
       "shortName": "",
-      "version": 1
+      "version": 0
     },
      {
       "id": "mcheyne",
@@ -585,7 +585,7 @@
       "lan":"en",    
       "critical":0,
       "shortName": "",
-      "version": 1
+      "version": 0
     } 
   ]
 }
