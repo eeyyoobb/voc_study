@@ -30,7 +30,7 @@
       "lan":"am",    
       "critical":0,
       "shortName": "NASV",
-      "version": 1
+      "version": 0
     },
      {
       "id": "hk",
@@ -40,7 +40,7 @@
       "lan":"am",    
       "critical":0,
       "shortName": "ሕያው ቃል",
-      "version": 1
+      "version": 0
     },
     {
     "id": "ti",
