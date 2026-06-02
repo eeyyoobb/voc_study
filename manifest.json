@@ -9,8 +9,10 @@
       "type": "bible",
       "lan":"am",
       "critical":0,
-      "shortName": "አማርኛ (1954)",
-      "version": 1
+      "shortName": "አማ(1954)",
+      "version": 1,
+      "description":"",
+      "encrypted":1
     },
     {
       "id": "kjv",
@@ -20,7 +22,9 @@
       "lan":"en",
       "critical":0,
       "shortName": "KJV",
-      "version": 1
+      "version": 1,
+      "description":"",
+      "encrypted":0
     },
      {
       "id": "nasv",
