@@ -38,6 +38,17 @@
       "description":"© Biblica, (formerly The International Bible Society)፣ የኀትመትና መጽሐፍ ቅዱስ ከሕይወት ጋር እንዲዛመድ የሚያግዙ ተግባራትን በአፍሪካ፣ በእስያ ፓስፊክ፣ በአው ሮፓ፣ በላቲን አሜሪካ፣ በመካከለኛው ምሥራቅና በሰሜን አሜሪካ በማከናወን የእግዚአብሔርን ቃል ለሰዎች የሚያቀርብ ድርጅት ነው። ቢብሊካ (Biblica) በዚህ ዓለም አቀፍ አቅራቦቱ፣ የእግዚአብሔር ቃል ለሰዎች እንዲደርስና ከኢየሱስ ክርስቶስ ጋር ከሚኖራቸው ኀብረት የተነሣ ሕይወታቸው እንዲለወጥ ይተጋል።"
     },
      {
+      "id": "hk",
+      "name": "ሕያው ቃል",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hk.db",
+      "type": "bible",
+      "lan":"am",
+      "critical":0,
+      "shortName": "ሕያው ቃል",
+      "version": 1,
+      "description":"LIVING BIBLES INTERNATIONAL"
+    },
+     {
       "id": "cross",
       "name": "Biblica Cross References",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross_references.db",
