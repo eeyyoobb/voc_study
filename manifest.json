@@ -12,7 +12,6 @@
       "shortName": "አማ(1954)",
       "version": 1,
       "description":"",
-      "encrypted":1
     },
     {
       "id": "kjv",
@@ -24,7 +23,6 @@
       "shortName": "KJV",
       "version": 1,
       "description":"",
-      "encrypted":0
     },
      {
       "id": "nasv",
