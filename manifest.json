@@ -3,13 +3,13 @@
   "last_updated": "2026-01-10",
   "available_versions": [
     {
-      "id": "Am54",
+      "id": "am54",
       "name": "አማርኛ (1954)",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
       "type": "bible",
       "lan":"am",
       "critical":0,
-      "shortName": "አማ(1954)",
+      "shortName": "አማ54",
       "version": 1,
       "description":""
     },
@@ -45,16 +45,6 @@
       "shortName": "ሕያው ቃል",
       "version": 2,
       "description":"LIVING BIBLES INTERNATIONAL"
-    },
-     {
-      "id": "cross",
-      "name": "Biblica Cross References",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/cross_references.db",
-      "type": "ref",
-      "lan":"en",    
-      "critical":0,
-      "shortName": "",
-      "version": 1
-    }
+     }
   ]
 }
