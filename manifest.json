@@ -10,7 +10,8 @@
       "critical":0,
       "shortName": "አማ54",
       "version": 1,
-      "description":""
+      "description":"",
+      "protected":false
     },
     {
       "id": "kjv",
@@ -20,7 +21,8 @@
       "critical":0,
       "shortName": "KJV",
       "version": 1,
-      "description":""
+      "description":"",
+      "protected":false
     },
      {
       "id": "NASV",
@@ -30,8 +32,9 @@
       "critical":0,
       "shortName": "አዲሱ መ.ት",
       "version": 2,
-      "description":"© Biblica, (formerly The International Bible Society)፣ የኀትመትና መጽሐፍ ቅዱስ ከሕይወት ጋር እንዲዛመድ የሚያግዙ ተግባራትን በአፍሪካ፣ በእስያ ፓስፊክ፣ በአው ሮፓ፣ በላቲን አሜሪካ፣ በመካከለኛው ምሥራቅና በሰሜን አሜሪካ በማከናወን የእግዚአብሔርን ቃል ለሰዎች የሚያቀርብ ድርጅት ነው። ቢብሊካ (Biblica) በዚህ ዓለም አቀፍ አቅራቦቱ፣ የእግዚአብሔር ቃል ለሰዎች እንዲደርስና ከኢየሱስ ክርስቶስ ጋር ከሚኖራቸው ኀብረት የተነሣ ሕይወታቸው እንዲለወጥ ይተጋል።"
-    },
+      "description":"© Biblica, (formerly The International Bible Society)፣ የኀትመትና መጽሐፍ ቅዱስ ከሕይወት ጋር እንዲዛመድ የሚያግዙ ተግባራትን በአፍሪካ፣ በእስያ ፓስፊክ፣ በአው ሮፓ፣ በላቲን አሜሪካ፣ በመካከለኛው ምሥራቅና በሰሜን አሜሪካ በማከናወን የእግዚአብሔርን ቃል ለሰዎች የሚያቀርብ ድርጅት ነው። ቢብሊካ (Biblica) በዚህ ዓለም አቀፍ አቅራቦቱ፣ የእግዚአብሔር ቃል ለሰዎች እንዲደርስና ከኢየሱስ ክርስቶስ ጋር ከሚኖራቸው ኀብረት የተነሣ ሕይወታቸው እንዲለወጥ ይተጋል።",
+      "protected":true
+     },
      {
       "id": "hq",
       "name": "ሕያው ቃል",
@@ -40,7 +43,8 @@
       "critical":1,
       "shortName": "ሕያው ቃል",
       "version": 3,
-      "description":"LIVING BIBLES INTERNATIONAL"
+      "description":"LIVING BIBLES INTERNATIONAL",
+      "protected":true
      }
   ]
 }
