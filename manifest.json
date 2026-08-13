@@ -36,6 +36,17 @@
       "protected":true
      },
      {
+      "id": "OROMO",
+      "name": "Macaafa Qulqulluu Afaan Oromoo",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/oromo.my",
+      "lan":"en",
+      "critical":0,
+      "shortName": "Macaafa Qulqulluu",
+      "version": 1,
+      "description":"Onesmus Nesib namni biyya Oromoo bar 1899 ti MQ afaan Oromootti hiikee maxxansiisuudhaan saba oroootiin ga’ee sabni keenya sagalee waaqayyoo afaan isaatiin akka inni dubbifatu godhe.Waggaa 120 booda, bara digitalaa (Digital Age) jedhamuun dhaan beekamu Jaarra 21ffaa keessa akka itti ilmaan namootaa waa dubbifatan geeddaramaa dhufe. Har’a namni baayyeen waa dubbisuudhaaf meeshaa harkatti baatamu (Mobile device) ti fayyadama. Kana hubannaa keessa galchuudhaan karaa Tokkumma Woldootii Oromoo Warra Wangeelaa Awurooppaa Macaafa Qulqulluu Afaan Oromoo kana dubbisoota jaarraa 21ffaaf yeroo dhiheessinu gammachuu guddaatu nutti dhaga’ama; dubistanii akka itti eebbifamtanis abdii qabna!\n\n- L.Dr. Tasgara Hirpo\n- Robsan Mako",
+      "protected":true
+     },
+     {
       "id": "hq",
       "name": "ሕያው ቃል",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hq.my",
