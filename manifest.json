@@ -58,6 +58,17 @@
       "protected":true
      },
      {
+      "id": "en-amp",
+      "name": "Amplified Bible",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/en-amp.zbl",
+      "lan":"en",
+      "critical":0,
+      "shortName": "AMP",
+      "version": 1,
+      "description":"Amplified Bible, 1987",
+      "protected":true
+     },
+     {
       "id": "hq",
       "name": "ሕያው ቃል",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hq.my",
