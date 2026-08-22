@@ -27,7 +27,7 @@
      {
       "id": "NASV",
       "name": "አማርኛ፥ አዲሱ መደበኛ ትርጉም",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/nasv.my",
+      "root_url": "nasv.my",
       "lan":"am",
       "critical":0,
       "shortName": "አዲሱ መ.ት",
@@ -38,7 +38,7 @@
      {
       "id": "OROMOO",
       "name": "Macaafa Qulqulluu Afaan Oromoo",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/oromo.my",
+      "root_url": "oromo.my",
       "lan":"or",
       "critical":0,
       "shortName": "Macaafa Qulqulluu",
@@ -49,7 +49,7 @@
       {
       "id": "TIGRIGNA",
       "name": "መጽሓፍ ቅዱስ ብትግርኛ",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/tiger.my",
+      "root_url": "tiger.my",
       "lan":"tig",
       "critical":0,
       "shortName": "መጽሓፍ ቅዱስ",
@@ -60,7 +60,7 @@
      {
       "id": "en-ampc",
       "name": "Amplified Bible , Classic Edition (AMPC)",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/en-ampc.zbl",
+      "root_url": "en-ampc.zbl",
       "lan":"en",
       "critical":0,
       "shortName": "AMPC",
