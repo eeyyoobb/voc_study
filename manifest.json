@@ -58,9 +58,9 @@
       "protected":true
      },
      {
-      "id": "en-amp",
+      "id": "en-ampc",
       "name": "Amplified Bible , Classic Edition (AMPC)",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/en-amp.zbl",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/en-ampc.zbl",
       "lan":"en",
       "critical":0,
       "shortName": "AMPC",
