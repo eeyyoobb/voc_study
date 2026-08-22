@@ -71,7 +71,7 @@
      {
       "id": "en-abc",
       "name": "Apostles' Bible Complete",
-      "root_url": "https://f005.backblazeb2.com/file/bklist/en-abc.zbl",
+      "root_url": "en-abc.zbl",
       "lan":"en",
       "critical":0,
       "shortName": "ABC",
