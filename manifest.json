@@ -68,7 +68,6 @@
       "description":"Amplified Bible, 1987",
       "protected":true
      },
-    
   {
     "id": "en-abc",
     "name": "Apostles' Bible Complete",
@@ -576,8 +575,6 @@
     "description": "William Tyndale Bible",
     "protected": true
   },
-
-    
      {
       "id": "hq",
       "name": "ሕያው ቃል",
