@@ -69,6 +69,17 @@
       "protected":true
      },
      {
+      "id": "en-abc",
+      "name": "Apostles' Bible Complete",
+      "root_url": "https://f005.backblazeb2.com/file/bklist/en-abc.zbl",
+      "lan":"en",
+      "critical":0,
+      "shortName": "ABC",
+      "version": 1,
+      "description":"Apostles' Bible Complete, 2004",
+      "protected":true
+     },
+     {
       "id": "hq",
       "name": "ሕያው ቃል",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hq.my",
