@@ -113,17 +113,7 @@
     "description": "Analytical Literal Translation, 2001",
     "protected": true
   },
-  {
-    "id": "en-amp",
-    "name": "Amplified Bible",
-    "root_url": "en-amp.zbl",
-    "lan": "en",
-    "critical": 0,
-    "shortName": "AMP",
-    "version": 1,
-    "description": "Amplified Bible, 1987",
-    "protected": true
-  },
+ 
   {
     "id": "en-bb",
     "name": "Bishops' Bible",
