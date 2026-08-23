@@ -1,6 +1,7 @@
 {
   "server_version": 1,
   "last_updated": "2026-01-10",
+  "versionCode" : "18",
   "available_versions": [
     {
       "id": "am54",
