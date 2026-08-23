@@ -578,7 +578,7 @@
      {
       "id": "hq",
       "name": "ሕያው ቃል",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/hq.my",
+      "root_url": "hq.my",
       "lan":"am",
       "critical":1,
       "shortName": "ሕያው ቃል",
