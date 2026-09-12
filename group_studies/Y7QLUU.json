@@ -884,7 +884,14 @@
       "joinedAt": 1789228136475,
       "completedDays": [],
       "lastCheckTime": 1789228136475
+    },
+    "usr_mtyhu8ha_mqzxze": {
+      "memberId": "usr_mtyhu8ha_mqzxze",
+      "name": "Maya",
+      "joinedAt": 1789228199715,
+      "completedDays": [],
+      "lastCheckTime": 1789228199715
     }
   },
-  "lastSyncedAt": 1789228136475
+  "lastSyncedAt": 1789228199715
 }
