@@ -5879,6 +5879,16 @@
       "joinedAt": 1789226638056,
       "completedDays": [],
       "lastCheckTime": 1789226638056
+    },
+    "test_member": {
+      "memberId": "test_member",
+      "name": "Test Member",
+      "joinedAt": 1789228519562,
+      "completedDays": [
+        1,
+        2
+      ],
+      "lastCheckTime": 1789228519562
     }
   },
   "lastSyncedAt": 1789226638056
