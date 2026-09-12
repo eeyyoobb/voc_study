@@ -1,0 +1,28 @@
+{
+  "id": "study_demo_01",
+  "joinCode": "DEMO01",
+  "title": "Gospel Study Group",
+  "adminName": "Admin Leader",
+  "adminMemberId": "admin_123",
+  "createdAt": 1789226394690,
+  "planId": "sample_plan",
+  "planMeta": {
+    "id": "sample_plan",
+    "title": "Sample 30-Day Plan",
+    "description": "Study the gospels together",
+    "totalDays": 30,
+    "days": []
+  },
+  "members": {
+    "admin_123": {
+      "memberId": "admin_123",
+      "name": "Admin Leader",
+      "joinedAt": 1789226394690,
+      "completedDays": [
+        1,
+        2
+      ],
+      "lastCheckTime": 1789226394690
+    }
+  }
+}
