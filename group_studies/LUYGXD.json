@@ -420,14 +420,16 @@
   },
   "startDate": "2026-09-13",
   "allowAdvanceReading": true,
-  "hasPendingSync": false,
+  "hasPendingSync": true,
   "members": {
     "usr_mtyhu8ha_mqzxze": {
       "memberId": "usr_mtyhu8ha_mqzxze",
       "name": "Maya",
       "joinedAt": 1789278136146,
-      "completedDays": [],
-      "lastCheckTime": 1789278136146
+      "completedDays": [
+        1
+      ],
+      "lastCheckTime": 1789278494011
     },
     "usr_mtyi1p54_afyfsx": {
       "memberId": "usr_mtyi1p54_afyfsx",
@@ -437,5 +439,5 @@
       "lastCheckTime": 1789278346630
     }
   },
-  "lastSyncedAt": 1789278346630
+  "lastSyncedAt": 1789278494011
 }
