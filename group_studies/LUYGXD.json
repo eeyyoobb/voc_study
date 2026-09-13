@@ -1,0 +1,434 @@
+{
+  "id": "study_mtze05si_LUYGXD",
+  "joinCode": "LUYGXD",
+  "title": "መዝሙረ ዳዊት በ31 ቀናት Study Group",
+  "adminName": "Maya",
+  "adminMemberId": "usr_mtyhu8ha_mqzxze",
+  "createdAt": 1789278136146,
+  "planId": "bibleplan_psalms",
+  "planMeta": {
+    "id": "bibleplan_psalms",
+    "title": "መዝሙረ ዳዊት በ31 ቀናት",
+    "description": "በቀን አምስት ምዕራፎች በማንበብ መዝሙረ ዳዊትን በአንድ ወር መጨረስ።",
+    "totalDays": 31,
+    "sourceFilename": "bibleplan_psalms.rp",
+    "days": [
+      {
+        "day": 1,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 1,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 5,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 6,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 10,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 11,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 16,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 17,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 20,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 21,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 25,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 26,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 30,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 7,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 31,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 35,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 8,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 36,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 41,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 9,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 42,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 46,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 10,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 47,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 51,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 11,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 52,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 56,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 12,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 57,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 61,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 13,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 62,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 67,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 14,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 68,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 72,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 15,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 73,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 77,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 16,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 78,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 82,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 17,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 83,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 87,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 18,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 88,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 92,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 19,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 93,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 97,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 20,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 98,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 102,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 21,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 103,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 107,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 22,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 108,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 112,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 23,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 113,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 118,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 24,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 119,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 119,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 25,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 120,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 125,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 26,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 126,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 130,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 27,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 131,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 136,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 28,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 137,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 140,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 29,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 141,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 144,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 30,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 145,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 147,
+            "endVerse": 0
+          }
+        ]
+      },
+      {
+        "day": 31,
+        "ranges": [
+          {
+            "startBook": 18,
+            "startChapter": 148,
+            "startVerse": 0,
+            "endBook": 18,
+            "endChapter": 150,
+            "endVerse": 0
+          }
+        ]
+      }
+    ]
+  },
+  "startDate": "2026-09-13",
+  "allowAdvanceReading": true,
+  "hasPendingSync": false,
+  "members": {
+    "usr_mtyhu8ha_mqzxze": {
+      "memberId": "usr_mtyhu8ha_mqzxze",
+      "name": "Maya",
+      "joinedAt": 1789278136146,
+      "completedDays": [],
+      "lastCheckTime": 1789278136146
+    }
+  },
+  "lastSyncedAt": 1789278136146
+}
