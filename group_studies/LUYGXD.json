@@ -428,7 +428,14 @@
       "joinedAt": 1789278136146,
       "completedDays": [],
       "lastCheckTime": 1789278136146
+    },
+    "usr_mtyi1p54_afyfsx": {
+      "memberId": "usr_mtyi1p54_afyfsx",
+      "name": "Meaza",
+      "joinedAt": 1789278346630,
+      "completedDays": [],
+      "lastCheckTime": 1789278346630
     }
   },
-  "lastSyncedAt": 1789278136146
+  "lastSyncedAt": 1789278346630
 }
