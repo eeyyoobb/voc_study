@@ -420,7 +420,7 @@
   },
   "startDate": "2026-09-14",
   "allowAdvanceReading": true,
-  "hasPendingSync": false,
+  "hasPendingSync": true,
   "members": {
     "usr_mu15ua7i_91b1pa": {
       "memberId": "usr_mu15ua7i_91b1pa",
@@ -430,5 +430,35 @@
       "lastCheckTime": 1789385357358
     }
   },
-  "lastSyncedAt": 1789385357358
+  "lastSyncedAt": 1789385357358,
+  "githubRepoUrl": "https://github.com/eeyyoobb/voc_study/blob/main/group_studies/KF299K.json",
+  "rawUrl": "https://raw.githubusercontent.com/eeyyoobb/voc_study/main/group_studies/KF299K.json",
+  "gistId": "ea7fac85385482ca6880202f07e878dd",
+  "gistUrl": "https://gist.github.com/eeyyoobb/ea7fac85385482ca6880202f07e878dd",
+  "dayQuizzes": {
+    "4": {
+      "dayNumber": 4,
+      "questionId": "custom_1789385474823_czxcy",
+      "question": {
+        "id": "custom_1789385474823_czxcy",
+        "question": "KHDkhd",
+        "options": [
+          "True",
+          "False",
+          "Cdg",
+          "Ffcvf"
+        ],
+        "correctAnswer": "True",
+        "type": "multiple",
+        "difficulty": "easy",
+        "explain": "",
+        "timeLimit": 30,
+        "tags": [
+          "የእኔ ጥያቄ"
+        ]
+      },
+      "attachedAt": 1789385501517,
+      "attachedBy": "usr_mu15ua7i_91b1pa"
+    }
+  }
 }
