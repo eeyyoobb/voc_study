@@ -34,6 +34,7 @@
       "critical":0,
       "shortName": "አዲሱ መ.ት",
       "version": 2,
+       "order":2,
       "description":"© Biblica, (formerly The International Bible Society)፣ የኀትመትና መጽሐፍ ቅዱስ ከሕይወት ጋር እንዲዛመድ የሚያግዙ ተግባራትን በአፍሪካ፣ በእስያ ፓስፊክ፣ በአው ሮፓ፣ በላቲን አሜሪካ፣ በመካከለኛው ምሥራቅና በሰሜን አሜሪካ በማከናወን የእግዚአብሔርን ቃል ለሰዎች የሚያቀርብ ድርጅት ነው። ቢብሊካ (Biblica) በዚህ ዓለም አቀፍ አቅራቦቱ፣ የእግዚአብሔር ቃል ለሰዎች እንዲደርስና ከኢየሱስ ክርስቶስ ጋር ከሚኖራቸው ኀብረት የተነሣ ሕይወታቸው እንዲለወጥ ይተጋል።",
       "protected":true
      },
@@ -586,6 +587,7 @@
       "shortName": "ሕያው ቃል",
       "version": 3,
       "description":"",
+       "order":3,
       "protected":true
      }
   ]
