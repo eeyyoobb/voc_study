@@ -11,6 +11,26 @@
       "type": "intro",
       "shortName": "መግቢያ",
       "version": 2
+    },
+     {
+      "id": "kjv",
+      "name": "subtitle - KJV",
+      "root_url": "pericope_kjv.zip",
+      "lan":"en",
+      "critical":0,
+      "type": "pericope",
+      "shortName": "subtitle",
+      "version": 2
+    },
+     {
+      "id": "am54",
+      "name": "ንዑስ ርዕስ  - 1954 ",
+      "root_url": "pericope_am54.zip",
+      "lan":"am",
+      "critical":0,
+      "type": "pericope",
+      "shortName": "ንዑስ ርዕስ",
+      "version": 1
     }
   ]
 }
