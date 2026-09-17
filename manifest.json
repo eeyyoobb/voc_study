@@ -600,7 +600,7 @@
       "version": 1,
       "description":"",
       "order":1,
-      "protected":true
+      "type":"intro",
      }
   ]
 }
