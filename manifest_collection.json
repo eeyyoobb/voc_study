@@ -3,13 +3,13 @@
   "last_updated": "2026-01-10",
   "available_versions": [
     {
-      "id": "1954",
-      "name": "አማርኛ (1954)",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
-      "type": "bibles",
+      "id": "nasv",
+      "name": "መግቢያ - እዲሱ መደበኛ ትርጉም ",
+      "root_url": "intro_nasv.zip",
       "lan":"am",
       "critical":0,
-      "shortName": "አማርኛ (1954)",
+      "type": "intro",
+      "shortName": "መግቢያ",
       "version": 1
     },
     {
