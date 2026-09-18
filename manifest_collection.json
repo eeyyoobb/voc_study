@@ -14,7 +14,7 @@
     },
      {
       "id": "kjv",
-      "name": "subtitle - KJV",
+      "name": "KJV -SubTitle",
       "root_url": "pericope_kjv.zip",
       "lan":"en",
       "critical":0,
