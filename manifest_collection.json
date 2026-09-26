@@ -31,6 +31,16 @@
       "type": "pericope",
       "shortName": "ንዑስ ርዕስ",
       "version": 1
+    },
+    {
+      "id": "worldmap",
+      "name": "world map",
+      "root_url": "worldmap.zip",
+      "lan":"en",
+      "critical":0,
+      "type": "map",
+      "shortName": "world map",
+      "version": 1
     }
   ]
 }
