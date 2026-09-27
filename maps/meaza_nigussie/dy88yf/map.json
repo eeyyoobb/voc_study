@@ -1,0 +1,35 @@
+{
+  "id": "dy88yf",
+  "folder": "dy88yf",
+  "nameAmharic": "DY88yf",
+  "nameEnglish": "DY88yf",
+  "biblicalNameAmharic": "DY88yf",
+  "biblicalNameEnglish": "DY88yf",
+  "bibleTimeTitle": "",
+  "modernTitle": "",
+  "overlayImage": "map.jpeg",
+  "aspectRatio": 1.4956896551724137,
+  "summaryAmharic": "",
+  "summaryEnglish": "",
+  "keyScriptures": [],
+  "territories": [
+    {
+      "id": "africa",
+      "nameAmharic": "Africa",
+      "nameEnglish": "Africa",
+      "subMapXPercent": 42,
+      "subMapYPercent": 35,
+      "subMapWidthPercent": 26.9,
+      "subMapHeightPercent": 44.1,
+      "titleXPercent": 55.5,
+      "titleYPercent": 57,
+      "type": "continent",
+      "borderColor": "rgba(251, 191, 36, 0.85)",
+      "borderWidth": 1.5,
+      "backgroundColor": "rgba(251, 191, 36, 0.15)",
+      "fontSize": 14
+    }
+  ],
+  "author": "meaza_nigussie",
+  "uploadedAt": "2026-09-27T13:53:46.430Z"
+}
