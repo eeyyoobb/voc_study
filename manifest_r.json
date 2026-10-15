@@ -4,12 +4,18 @@
       "id": "bkcot",
       "name": "The_Bible_Knowledge_Commentary_An_Exposition_of_the_Scriptures_by",
       "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/bkcot.zip",
-      "lan":"am",
-      "critical":0,
-      "shortName": "አማ54",
-      "version": 1,
-      "description":"",
-      "order": 1,
-      "protected":false
+      "lan":"en",
+      "book":"ot",
+      "shortName": "Bible Knowledge",
+      "description":""
+    },
+{
+      "id": "bkcnt",
+      "name": "The_Bible_Knowledge_Commentary_John_F_Walvoord,_Roy_B_Zuck",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/bkcnt.zip",
+      "lan":"en",
+      "book":"nt",
+      "shortName": "Bible Knowledge",
+      "description":""
     }
 ]}
