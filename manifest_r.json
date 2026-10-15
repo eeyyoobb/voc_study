@@ -1,9 +1,9 @@
 {
  [
     {
-      "id": "bible_knowledge_ot",
+      "id": "bkcot",
       "name": "The_Bible_Knowledge_Commentary_An_Exposition_of_the_Scriptures_by",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/1954.db",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/bkcot.zip",
       "lan":"am",
       "critical":0,
       "shortName": "አማ54",
