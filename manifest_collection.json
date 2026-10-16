@@ -41,6 +41,16 @@
       "type": "map",
       "shortName": "world map",
       "version": 1
+    }፣
+     {
+      "id": "dictionary",
+      "name": "መዝገበ ቃላት",
+      "root_url": "dictionary.zip",
+      "lan":"am",
+      "critical":0,
+      "type": "dictionary",
+      "shortName": "መዝገበ ቃላት",
+      "version": 1
     }
   ]
 }
