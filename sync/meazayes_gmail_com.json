@@ -1,14 +1,14 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1792338155097,
+  "lastSyncTimestamp": 1792338255999,
   "lastDeviceId": "bd54a24d3cc3a394",
   "devices": [
     "bd54a24d3cc3a394"
   ],
   "marks": [
     {
-      "id": 4,
+      "id": 8,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -22,7 +22,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 5,
+      "id": 9,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -36,7 +36,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 6,
+      "id": 10,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -50,95 +50,95 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 7,
-      "partIndex": null,
+      "id": 11,
+      "partIndex": 0,
       "book": 3,
       "chapter": 7,
       "verse": 5,
       "text": "ለመገናኛው ድንኳን ማገልገል ይሆን ዘንድ ከእነርሱ ተቀብለህ ለሌዋውያን ለእያንዳንዱ እንደ አገልግሎታቸው ስጣቸው።",
       "version": "am54",
       "style": 1358905151,
-      "note": null,
-      "segment": null,
+      "note": "",
+      "segment": "",
       "time": "2026-10-18T15:42:29.230Z",
       "bookname": "ኦሪት ዘኍልቍ"
     }
   ],
   "highlightStyles": [
     {
-      "id": 2088677116,
+      "id": 2088677129,
       "title": "Lavender",
       "backgroundColor": "#e2d0f5",
       "textColor": "#000000"
     },
     {
-      "id": 2088677117,
+      "id": 2088677130,
       "title": "Lime",
       "backgroundColor": "#cff5a0",
       "textColor": "#000000"
     },
     {
-      "id": 2088677118,
+      "id": 2088677131,
       "title": "Blue",
       "backgroundColor": "#94c7fe",
       "textColor": "#000000"
     },
     {
-      "id": 2088677119,
+      "id": 2088677132,
       "title": "Purple",
       "backgroundColor": "#d2a8fa",
       "textColor": "#000000"
     },
     {
-      "id": 2088677120,
+      "id": 2088677133,
       "title": "Peach",
       "backgroundColor": "#fed5b9",
       "textColor": "#000000"
     },
     {
-      "id": 2088677121,
+      "id": 2088677134,
       "title": "Red",
       "backgroundColor": "#ffc3c3",
       "textColor": "#000000"
     },
     {
-      "id": 2088677122,
+      "id": 2088677135,
       "title": "Pink",
       "backgroundColor": "#ffc7f6",
       "textColor": "#000000"
     },
     {
-      "id": 2088677123,
+      "id": 2088677136,
       "title": "Sand",
       "backgroundColor": "#e5d6cf",
       "textColor": "#000000"
     },
     {
-      "id": 2088677124,
+      "id": 2088677137,
       "title": "Green",
       "backgroundColor": "#b2eec8",
       "textColor": "#000000"
     },
     {
-      "id": 2088677125,
+      "id": 2088677138,
       "title": "Orange",
       "backgroundColor": "#fedfb3",
       "textColor": "#000000"
     },
     {
-      "id": 2088677126,
+      "id": 2088677139,
       "title": "Teal",
       "backgroundColor": "#9cf1e9",
       "textColor": "#000000"
     },
     {
-      "id": 2088677127,
+      "id": 2088677140,
       "title": "Yellow",
       "backgroundColor": "#feec98",
       "textColor": "#000000"
     },
     {
-      "id": 2088677128,
+      "id": 2088677141,
       "title": "Sky Blue",
       "backgroundColor": "#c0d8fe",
       "textColor": "#000000"
