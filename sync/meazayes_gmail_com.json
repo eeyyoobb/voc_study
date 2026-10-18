@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "accountEmail": "meazayes@gmail.com",
+  "lastSyncTimestamp": 1792338122979,
+  "lastDeviceId": "bd54a24d3cc3a394",
+  "devices": [
+    "bd54a24d3cc3a394"
+  ],
+  "marks": [
+    {
+      "id": 1,
+      "partIndex": null,
+      "book": 2,
+      "chapter": 20,
+      "verse": 3,
+      "text": "መቅደሴን ያረክስ ዘንድ፥ የተቀደሰውንም ስሜን ያጐሰቍል ዘንድ ዘሩን ለሞሎክ ሰጥቶአልና እኔ በዚያ ሰው ላይ ፊቴን አከብዳለሁ፥ ከሕዝቡም መካከል ለይቼ አጠፋዋለሁ።",
+      "version": "am54",
+      "style": -1514505993,
+      "note": null,
+      "segment": null,
+      "time": "2026-10-17T13:22:56.042Z",
+      "bookname": "ኦሪት ዘሌዋውያን"
+    },
+    {
+      "id": 2,
+      "partIndex": null,
+      "book": 2,
+      "chapter": 20,
+      "verse": 17,
+      "text": "ማናቸውም ሰው የአባቱን ልጅ ወይም የእናቱን ልጅ እኅቱን ቢያገባ፥ ኃፍረተ ሥጋዋንም ቢያይ፥ እርስዋም ኃፍረተ ሥጋውን ብታይ፥ ይህ ጸያፍ ነገር ነው፤ በሕዝባቸውም ልጆች ፊት ይገደሉ፤ የእኅቱን ኃፍረተ ሥጋ ገልጦአልና ኃጢአቱን ይሸከማል።",
+      "version": "am54",
+      "style": 1614009195,
+      "note": null,
+      "segment": null,
+      "time": "2026-10-17T13:49:31.065Z",
+      "bookname": "ኦሪት ዘሌዋውያን"
+    },
+    {
+      "id": 3,
+      "partIndex": null,
+      "book": 3,
+      "chapter": 7,
+      "verse": 3,
+      "text": "መባቸውንም በእግዚአብሔር ፊት አቀረቡ፥ የተከደኑ ስድስት ሰረገሎች አሥራ ሁለትም በሬዎች፤ በየሁለቱም አለቆች አንድ ሰረገላ አቀረቡ፥ ሁሉም እያንዳንዱ አንድ በሬ በማደሪያው ፊት አቀረቡ።",
+      "version": "am54",
+      "style": 1614009195,
+      "note": null,
+      "segment": null,
+      "time": "2026-10-17T14:00:17.861Z",
+      "bookname": "ኦሪት ዘኍልቍ"
+    }
+  ],
+  "highlightStyles": [
+    {
+      "id": -2134466068,
+      "title": "Lavender",
+      "backgroundColor": "#e2d0f5",
+      "textColor": "#000000"
+    },
+    {
+      "id": -2086343609,
+      "title": "Lime",
+      "backgroundColor": "#cff5a0",
+      "textColor": "#000000"
+    },
+    {
+      "id": -1925473796,
+      "title": "Blue",
+      "backgroundColor": "#94c7fe",
+      "textColor": "#000000"
+    },
+    {
+      "id": -1514505993,
+      "title": "Purple",
+      "backgroundColor": "#d2a8fa",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1275031568,
+      "title": "Peach",
+      "backgroundColor": "#fed5b9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1358905151,
+      "title": "Red",
+      "backgroundColor": "#ffc3c3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1476352993,
+      "title": "Pink",
+      "backgroundColor": "#ffc7f6",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1589219200,
+      "title": "Sand",
+      "backgroundColor": "#e5d6cf",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1614009195,
+      "title": "Green",
+      "backgroundColor": "#b2eec8",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1627171124,
+      "title": "Orange",
+      "backgroundColor": "#fedfb3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1661000646,
+      "title": "Teal",
+      "backgroundColor": "#9cf1e9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1996477985,
+      "title": "Yellow",
+      "backgroundColor": "#feec98",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677115,
+      "title": "Sky Blue",
+      "backgroundColor": "#c0d8fe",
+      "textColor": "#000000"
+    }
+  ],
+  "tags": [],
+  "tagVerses": [],
+  "readingPlans": [],
+  "readingPlanProgress": [],
+  "quizzes": {
+    "customQuestions": [],
+    "studyReferences": [],
+    "stats": null,
+    "answeredQuestions": []
+  },
+  "channelProfile": {
+    "id": "ch_user_mvb0knld",
+    "name": "Too many failed attempts",
+    "userName": "too_manyfailedattempts",
+    "handle": "@too_manyfailedattempts",
+    "code": "CH-9969",
+    "bio": "መንፈሳዊ ጥያቄዎችን፣ የንባብ ዕቅዶችንና ማጣቀሻዎችን አዘጋጃለሁ",
+    "avatarIcon": "Book",
+    "followersCount": 12
+  }
+}
