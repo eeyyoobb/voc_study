@@ -1,7 +1,7 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1792384243151,
+  "lastSyncTimestamp": 1792384391318,
   "lastDeviceId": "bd54a24d3cc3a394",
   "devices": [
     "bd54a24d3cc3a394"
@@ -155,11 +155,11 @@
     "answeredQuestions": []
   },
   "channelProfile": {
-    "id": "ch_user_mver27g3",
+    "id": "ch_user_mvercj6e",
     "name": "meazayes",
     "userName": "meazayes",
     "handle": "@meazayes",
-    "code": "CH-5244",
+    "code": "CH-8185",
     "bio": "መንፈሳዊ ጥያቄዎችን፣ የንባብ ዕቅዶችንና ማጣቀሻዎችን አዘጋጃለሁ",
     "avatarIcon": "Book",
     "followersCount": 12
