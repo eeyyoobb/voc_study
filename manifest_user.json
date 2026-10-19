@@ -1,3 +1,21 @@
 [
-  "meazayes","yesjobkb"
+  {
+    "email": "meazayes@gmail.com",
+    "username": "meaza_nigussie",
+    "firstName": "Meaza",
+    "lastName": "Nigussie",
+    "name": "Meaza Nigussie",
+    "approved": true,
+    "createdAt": "2026-10-19T08:44:23.405Z",
+    "lastLoginAt": "2026-10-19T08:44:23.405Z",
+    "role": "creator"
+  },
+  {
+    "email": "yesjobkb@gmail.com",
+    "username": "yesjobkb",
+    "name": "yesjobkb",
+    "approved": true,
+    "role": "admin",
+    "createdAt": "2026-10-19T08:44:23.405Z"
+  }
 ]
