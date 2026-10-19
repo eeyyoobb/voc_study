@@ -8,14 +8,17 @@
     "approved": true,
     "createdAt": "2026-10-19T08:44:23.405Z",
     "lastLoginAt": "2026-10-19T08:45:19.587Z",
-    "role": "creator"
+    "role": "admin"
   },
   {
     "email": "yesjobkb@gmail.com",
-    "username": "yesjobkb",
-    "name": "yesjobkb",
+    "username": "job_kb",
+    "firstName": "Job",
+    "lastName": "KB",
+    "name": "Job KB",
     "approved": true,
-    "role": "admin",
-    "createdAt": "2026-10-19T08:44:23.405Z"
+    "createdAt": "2026-10-19T08:44:23.405Z",
+    "lastLoginAt": "2026-10-19T08:45:31.000Z",
+    "role": "creator"
   }
 ]
