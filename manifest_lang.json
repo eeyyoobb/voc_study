@@ -2,13 +2,9 @@
 {
  [
     {
-      "id": "bkcot",
-      "name": "The_Bible_Knowledge_Commentary_An_Exposition_of_the_Scriptures_by",
-      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/bkcot.zip",
-      "lan":"en",
-      "book":"ot",
-      "shortName": "Bible Knowledge",
-      "description":""
+      "id": "oro",
+      "name": "Afaan Orormo",
+      "root_url": "https://github.com/eeyyoobb/voc_study/raw/main/or.json",
     }
 ]
 }
