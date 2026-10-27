@@ -1,7 +1,7 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1793111420260,
+  "lastSyncTimestamp": 1793111647626,
   "lastDeviceId": "bd54a24d3cc3a394",
   "devices": [
     "bd54a24d3cc3a394",
@@ -9,7 +9,7 @@
   ],
   "marks": [
     {
-      "id": 44,
+      "id": 63,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -23,7 +23,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 45,
+      "id": 64,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -37,7 +37,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 46,
+      "id": 65,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -51,7 +51,7 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 47,
+      "id": 66,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -65,7 +65,7 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 48,
+      "id": 67,
       "partIndex": 0,
       "book": 0,
       "chapter": 22,
@@ -79,7 +79,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 49,
+      "id": 68,
       "partIndex": 0,
       "book": 0,
       "chapter": 1,
@@ -93,7 +93,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 50,
+      "id": 69,
       "partIndex": 0,
       "book": 0,
       "chapter": 1,
@@ -107,7 +107,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 51,
+      "id": 70,
       "partIndex": 0,
       "book": 0,
       "chapter": 1,
@@ -121,7 +121,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 52,
+      "id": 71,
       "partIndex": 0,
       "book": 0,
       "chapter": 1,
@@ -135,7 +135,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 53,
+      "id": 72,
       "partIndex": 0,
       "book": 0,
       "chapter": 2,
@@ -149,7 +149,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 54,
+      "id": 73,
       "partIndex": 0,
       "book": 0,
       "chapter": 2,
@@ -163,7 +163,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 55,
+      "id": 74,
       "partIndex": 0,
       "book": 0,
       "chapter": 1,
@@ -177,7 +177,7 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 56,
+      "id": 75,
       "partIndex": 0,
       "book": 39,
       "chapter": 4,
@@ -191,7 +191,7 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 57,
+      "id": 76,
       "partIndex": 0,
       "book": 39,
       "chapter": 4,
@@ -205,7 +205,7 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 58,
+      "id": 77,
       "partIndex": 0,
       "book": 39,
       "chapter": 4,
@@ -219,7 +219,7 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 59,
+      "id": 78,
       "partIndex": 0,
       "book": 39,
       "chapter": 4,
@@ -233,7 +233,7 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 60,
+      "id": 79,
       "partIndex": 0,
       "book": 39,
       "chapter": 4,
@@ -247,7 +247,7 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 61,
+      "id": 80,
       "partIndex": 0,
       "book": 0,
       "chapter": 23,
@@ -261,95 +261,95 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 62,
-      "partIndex": null,
+      "id": 81,
+      "partIndex": 0,
       "book": 0,
       "chapter": 22,
       "verse": 5,
       "text": "አብርሃምም ሎሌዎቹን አላቸው፦ አህያውን ይዛችሁ ከዚህ ቆዩ፤ እኔና ልጄ ወደዚያ ሄደን እንሰግዳለን፥ ወደ እናንተም እንመለሳለን።",
       "version": "am54",
       "style": 1614009195,
-      "note": null,
-      "segment": null,
+      "note": "",
+      "segment": "",
       "time": "2026-10-27T14:29:51.566Z",
       "bookname": "ኦሪት ዘፍጥረት"
     }
   ],
   "highlightStyles": [
     {
-      "id": 2088677207,
+      "id": 2088677220,
       "title": "Lavender",
       "backgroundColor": "#e2d0f5",
       "textColor": "#000000"
     },
     {
-      "id": 2088677208,
+      "id": 2088677221,
       "title": "Lime",
       "backgroundColor": "#cff5a0",
       "textColor": "#000000"
     },
     {
-      "id": 2088677209,
+      "id": 2088677222,
       "title": "Blue",
       "backgroundColor": "#94c7fe",
       "textColor": "#000000"
     },
     {
-      "id": 2088677210,
+      "id": 2088677223,
       "title": "Purple",
       "backgroundColor": "#d2a8fa",
       "textColor": "#000000"
     },
     {
-      "id": 2088677211,
+      "id": 2088677224,
       "title": "Peach",
       "backgroundColor": "#fed5b9",
       "textColor": "#000000"
     },
     {
-      "id": 2088677212,
+      "id": 2088677225,
       "title": "Red",
       "backgroundColor": "#ffc3c3",
       "textColor": "#000000"
     },
     {
-      "id": 2088677213,
+      "id": 2088677226,
       "title": "Pink",
       "backgroundColor": "#ffc7f6",
       "textColor": "#000000"
     },
     {
-      "id": 2088677214,
+      "id": 2088677227,
       "title": "Sand",
       "backgroundColor": "#e5d6cf",
       "textColor": "#000000"
     },
     {
-      "id": 2088677215,
+      "id": 2088677228,
       "title": "Green",
       "backgroundColor": "#b2eec8",
       "textColor": "#000000"
     },
     {
-      "id": 2088677216,
+      "id": 2088677229,
       "title": "Orange",
       "backgroundColor": "#fedfb3",
       "textColor": "#000000"
     },
     {
-      "id": 2088677217,
+      "id": 2088677230,
       "title": "Teal",
       "backgroundColor": "#9cf1e9",
       "textColor": "#000000"
     },
     {
-      "id": 2088677218,
+      "id": 2088677231,
       "title": "Yellow",
       "backgroundColor": "#feec98",
       "textColor": "#000000"
     },
     {
-      "id": 2088677219,
+      "id": 2088677232,
       "title": "Sky Blue",
       "backgroundColor": "#c0d8fe",
       "textColor": "#000000"
