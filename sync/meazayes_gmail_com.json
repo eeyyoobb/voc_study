@@ -1,183 +1,15 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1793109667725,
-  "lastDeviceId": "dev_mvq804f2_e8q6ln",
+  "lastSyncTimestamp": 1793109713867,
+  "lastDeviceId": "bd54a24d3cc3a394",
   "devices": [
     "bd54a24d3cc3a394",
     "dev_mvq804f2_e8q6ln"
   ],
   "marks": [
     {
-      "id": 35,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 1,
-      "verse": 1,
-      "text": "በመጀመሪያ እግዚአብሔር ሰማይንና ምድርን ፈጠረ።",
-      "version": "am54",
-      "style": 1,
-      "note": "",
-      "segment": "",
-      "time": "2026-10-20T08:16:18.413Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 36,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 1,
-      "verse": 4,
-      "text": "እግዚአብሔርም ብርሃኑ መልካም እንደ ሆነ አየ፥ እግዚአብሔርም ብርሃንንና ጨለማን ለየ።",
-      "version": "am54",
-      "style": 1996477985,
-      "note": "<div class=\"note-body\">qetqet</div>",
-      "segment": "0,9999,#feec98",
-      "time": "2026-10-20T08:42:32.054Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 37,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 1,
-      "verse": 2,
-      "text": "ምድርም ባዶ ነበረች፥ አንዳችም አልነበረባትም፤ ጨለማም በጥልቁ ላይ ነበረ፤ የእግዚአብሔርም መንፈስ በውኃ ላይ ሰፍፎ ነበር።",
-      "version": "am54",
-      "style": 1358905151,
-      "note": "",
-      "segment": "0,78,1358905151",
-      "time": "2026-10-20T08:42:07.011Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 38,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 1,
-      "verse": 5,
-      "text": "እግዚአብሔርም ብርሃኑን ቀን ብሎ ጠራው፥ ጨለማውንም ሌሊት አለው። ማታም ሆነ ጥዋትም ሆነ፥ አንድ ቀን።",
-      "version": "am54",
-      "style": -1925473796,
-      "note": "",
-      "segment": "0,9999,#94c7fe",
-      "time": "2026-10-20T09:21:58.566Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 39,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 2,
-      "verse": 5,
-      "text": "የሜዳ ቁጥቋጦ ሁሉ በምድር ላይ ገና አልነበረም፤ የሜዳውም ቡቃያ ሁሉ ገና አልበቀለም ነበር፣ እግዚአብሔር አምላክ ምድር ላይ አላዘነበም ነበርና፥ ምድርንም የሚሠራባት ሰው አልነበረም፤",
-      "version": "am54",
-      "style": -1514505993,
-      "note": "",
-      "segment": "0,9999,#d2a8fa",
-      "time": "2026-10-20T09:24:55.261Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 40,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 2,
-      "verse": 4,
-      "text": "እግዚአብሔር አምላክ ሰማይንና ምድርን ባደረገ ቀን፥ በተፈጠሩ ጊዜ የሰማይና የምድር ልደት ይህ ነው።",
-      "version": "am54",
-      "style": -1925473796,
-      "note": "<div class=\"note-body\">qwe</div>",
-      "segment": "0,9999,#94c7fe",
-      "time": "2026-10-20T09:25:21.607Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 41,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 1,
-      "verse": 6,
-      "text": "እግዚአብሔርም፦ በውኆች መካከል ጠፈር ይሁን፥ በውኃና በውኃ መካከልም ይክፈል አለ።",
-      "version": "am54",
-      "style": 1614009195,
-      "note": "",
-      "segment": "0,9999,#b2eec8",
-      "time": "2026-10-20T09:59:50.225Z",
-      "bookname": "ኦሪት ዘፍጥረት"
-    },
-    {
-      "id": 42,
-      "partIndex": 0,
-      "book": 39,
-      "chapter": 4,
-      "verse": 3,
-      "text": "ከዚያም፥ ሰይጣን ወደ ኢየሱስ ቀርቦ ድንጋዮችን ወደ እንጀራ ለውጦ እንዲመገብ በማሳሰብ፥ «እንዲህ ብታደርግ እኮ! የእግዚአብሔር ልጅ መሆንህ ይረጋገጥ ነበር» ሲል ፈተነው።",
-      "version": "hq",
-      "style": -2086343609,
-      "note": "<div class=\"note-body\">QWE</div>",
-      "segment": "11,18,-2086343609",
-      "time": "2026-10-26T15:40:55.281Z",
-      "bookname": "የማቴዎስ ወንጌል"
-    },
-    {
-      "id": 43,
-      "partIndex": 0,
-      "book": 39,
-      "chapter": 4,
-      "verse": 4,
-      "text": "ኢየሱስም «አንተ እንደምትለው ሳይሆን፥ የእግዚአብሔር ቃል እንደሚለው፥ —ሰው በእንጀራ ብቻ መኖር አይችልም። ዋናው ቁም ነገር፥ የእግዚአብሔርን ቃል መቀበልና በእርሱም እየተመሩ መኖር ነው» ሲል መለሰለት።",
-      "version": "hq",
-      "style": 1996477985,
-      "note": "",
-      "segment": "0,9999,#feec98",
-      "time": "2026-10-27T04:32:36.562Z",
-      "bookname": "የማቴዎስ ወንጌል"
-    },
-    {
-      "id": 44,
-      "partIndex": 0,
-      "book": 39,
-      "chapter": 4,
-      "verse": 5,
-      "text": "ቀጥሎም ሰይጣን ኢየሱስን ወደ ኢየሩሳሌም ከተማ ወስዶ፥ ከቤተመቅደሱ ጣራ አናት ላይ አወጣው።",
-      "version": "hq",
-      "style": 1358905151,
-      "note": "",
-      "segment": "0,9999,#ffc3c3",
-      "time": "2026-10-27T04:35:58.878Z",
-      "bookname": "የማቴዎስ ወንጌል"
-    },
-    {
-      "id": 45,
-      "partIndex": 0,
-      "book": 39,
-      "chapter": 4,
-      "verse": 6,
-      "text": "«የእግዚአብሔር ልጅ መሆንህ እንዲታወቅ እስቲ ከዚህ ጣራ ላይ ወደ ምድር ዝለል! በመጻሕፍት ውስጥ እንደተጻፈው፥ —እግዚአብሔር መላእክቱን ልኮ ከጉዳት ስለሚጠብቅህ አትፈጠፈጥም» አለው።",
-      "version": "hq",
-      "style": -1514505993,
-      "note": "",
-      "segment": "0,9999,#d2a8fa",
-      "time": "2026-10-27T04:49:52.116Z",
-      "bookname": "የማቴዎስ ወንጌል"
-    },
-    {
-      "id": 46,
-      "partIndex": 0,
-      "book": 39,
-      "chapter": 4,
-      "verse": 7,
-      "text": "ኢየሱስም መለሰና «እንደዚሁም በመጻሕፍት፥ —እግዚአብሔር አምላክህን አትፈታተነው ተብሎ ተጽፎአልና፥ እንዲህ ያለውን ነገር ፈጽሞ አላደርገውም» አለው።",
-      "version": "hq",
-      "style": 1358905151,
-      "note": "",
-      "segment": "0,9999,#ffc3c3",
-      "time": "2026-10-27T05:03:23.225Z",
-      "bookname": "የማቴዎስ ወንጌል"
-    },
-    {
-      "id": 47,
+      "id": 27,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -191,7 +23,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 48,
+      "id": 28,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -205,7 +37,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 49,
+      "id": 29,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -219,7 +51,7 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 50,
+      "id": 30,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -233,7 +65,7 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 51,
+      "id": 31,
       "partIndex": 0,
       "book": 0,
       "chapter": 22,
@@ -245,6 +77,174 @@
       "segment": "",
       "time": "2026-10-27T13:35:51.620Z",
       "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 32,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 1,
+      "verse": 1,
+      "text": "በመጀመሪያ እግዚአብሔር ሰማይንና ምድርን ፈጠረ።",
+      "version": "am54",
+      "style": 1,
+      "note": "",
+      "segment": "",
+      "time": "2026-10-20T08:16:18.413Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 33,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 1,
+      "verse": 4,
+      "text": "እግዚአብሔርም ብርሃኑ መልካም እንደ ሆነ አየ፥ እግዚአብሔርም ብርሃንንና ጨለማን ለየ።",
+      "version": "am54",
+      "style": 1996477985,
+      "note": "<div class=\"note-body\">qetqet</div>",
+      "segment": "0,9999,#feec98",
+      "time": "2026-10-20T08:42:32.054Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 34,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 1,
+      "verse": 2,
+      "text": "ምድርም ባዶ ነበረች፥ አንዳችም አልነበረባትም፤ ጨለማም በጥልቁ ላይ ነበረ፤ የእግዚአብሔርም መንፈስ በውኃ ላይ ሰፍፎ ነበር።",
+      "version": "am54",
+      "style": 1358905151,
+      "note": "",
+      "segment": "0,78,1358905151",
+      "time": "2026-10-20T08:42:07.011Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 35,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 1,
+      "verse": 5,
+      "text": "እግዚአብሔርም ብርሃኑን ቀን ብሎ ጠራው፥ ጨለማውንም ሌሊት አለው። ማታም ሆነ ጥዋትም ሆነ፥ አንድ ቀን።",
+      "version": "am54",
+      "style": -1925473796,
+      "note": "",
+      "segment": "0,9999,#94c7fe",
+      "time": "2026-10-20T09:21:58.566Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 36,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 2,
+      "verse": 5,
+      "text": "የሜዳ ቁጥቋጦ ሁሉ በምድር ላይ ገና አልነበረም፤ የሜዳውም ቡቃያ ሁሉ ገና አልበቀለም ነበር፣ እግዚአብሔር አምላክ ምድር ላይ አላዘነበም ነበርና፥ ምድርንም የሚሠራባት ሰው አልነበረም፤",
+      "version": "am54",
+      "style": -1514505993,
+      "note": "",
+      "segment": "0,9999,#d2a8fa",
+      "time": "2026-10-20T09:24:55.261Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 37,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 2,
+      "verse": 4,
+      "text": "እግዚአብሔር አምላክ ሰማይንና ምድርን ባደረገ ቀን፥ በተፈጠሩ ጊዜ የሰማይና የምድር ልደት ይህ ነው።",
+      "version": "am54",
+      "style": -1925473796,
+      "note": "<div class=\"note-body\">qwe</div>",
+      "segment": "0,9999,#94c7fe",
+      "time": "2026-10-20T09:25:21.607Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 38,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 1,
+      "verse": 6,
+      "text": "እግዚአብሔርም፦ በውኆች መካከል ጠፈር ይሁን፥ በውኃና በውኃ መካከልም ይክፈል አለ።",
+      "version": "am54",
+      "style": 1614009195,
+      "note": "",
+      "segment": "0,9999,#b2eec8",
+      "time": "2026-10-20T09:59:50.225Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
+    {
+      "id": 39,
+      "partIndex": 0,
+      "book": 39,
+      "chapter": 4,
+      "verse": 3,
+      "text": "ከዚያም፥ ሰይጣን ወደ ኢየሱስ ቀርቦ ድንጋዮችን ወደ እንጀራ ለውጦ እንዲመገብ በማሳሰብ፥ «እንዲህ ብታደርግ እኮ! የእግዚአብሔር ልጅ መሆንህ ይረጋገጥ ነበር» ሲል ፈተነው።",
+      "version": "hq",
+      "style": -2086343609,
+      "note": "<div class=\"note-body\">QWE</div>",
+      "segment": "11,18,-2086343609",
+      "time": "2026-10-26T15:40:55.281Z",
+      "bookname": "የማቴዎስ ወንጌል"
+    },
+    {
+      "id": 40,
+      "partIndex": 0,
+      "book": 39,
+      "chapter": 4,
+      "verse": 4,
+      "text": "ኢየሱስም «አንተ እንደምትለው ሳይሆን፥ የእግዚአብሔር ቃል እንደሚለው፥ —ሰው በእንጀራ ብቻ መኖር አይችልም። ዋናው ቁም ነገር፥ የእግዚአብሔርን ቃል መቀበልና በእርሱም እየተመሩ መኖር ነው» ሲል መለሰለት።",
+      "version": "hq",
+      "style": 1996477985,
+      "note": "",
+      "segment": "0,9999,#feec98",
+      "time": "2026-10-27T04:32:36.562Z",
+      "bookname": "የማቴዎስ ወንጌል"
+    },
+    {
+      "id": 41,
+      "partIndex": 0,
+      "book": 39,
+      "chapter": 4,
+      "verse": 5,
+      "text": "ቀጥሎም ሰይጣን ኢየሱስን ወደ ኢየሩሳሌም ከተማ ወስዶ፥ ከቤተመቅደሱ ጣራ አናት ላይ አወጣው።",
+      "version": "hq",
+      "style": 1358905151,
+      "note": "",
+      "segment": "0,9999,#ffc3c3",
+      "time": "2026-10-27T04:35:58.878Z",
+      "bookname": "የማቴዎስ ወንጌል"
+    },
+    {
+      "id": 42,
+      "partIndex": 0,
+      "book": 39,
+      "chapter": 4,
+      "verse": 6,
+      "text": "«የእግዚአብሔር ልጅ መሆንህ እንዲታወቅ እስቲ ከዚህ ጣራ ላይ ወደ ምድር ዝለል! በመጻሕፍት ውስጥ እንደተጻፈው፥ —እግዚአብሔር መላእክቱን ልኮ ከጉዳት ስለሚጠብቅህ አትፈጠፈጥም» አለው።",
+      "version": "hq",
+      "style": -1514505993,
+      "note": "",
+      "segment": "0,9999,#d2a8fa",
+      "time": "2026-10-27T04:49:52.116Z",
+      "bookname": "የማቴዎስ ወንጌል"
+    },
+    {
+      "id": 43,
+      "partIndex": 0,
+      "book": 39,
+      "chapter": 4,
+      "verse": 7,
+      "text": "ኢየሱስም መለሰና «እንደዚሁም በመጻሕፍት፥ —እግዚአብሔር አምላክህን አትፈታተነው ተብሎ ተጽፎአልና፥ እንዲህ ያለውን ነገር ፈጽሞ አላደርገውም» አለው።",
+      "version": "hq",
+      "style": 1358905151,
+      "note": "",
+      "segment": "0,9999,#ffc3c3",
+      "time": "2026-10-27T05:03:23.225Z",
+      "bookname": "የማቴዎስ ወንጌል"
     },
     {
       "id": 52,
@@ -263,157 +263,79 @@
   ],
   "highlightStyles": [
     {
-      "id": -2134466068,
+      "id": 2088677194,
       "title": "Lavender",
       "backgroundColor": "#e2d0f5",
       "textColor": "#000000"
     },
     {
-      "id": -2086343609,
+      "id": 2088677195,
       "title": "Lime",
       "backgroundColor": "#cff5a0",
       "textColor": "#000000"
     },
     {
-      "id": -1925473796,
+      "id": 2088677196,
       "title": "Blue",
       "backgroundColor": "#94c7fe",
       "textColor": "#000000"
     },
     {
-      "id": -1514505993,
+      "id": 2088677197,
       "title": "Purple",
       "backgroundColor": "#d2a8fa",
       "textColor": "#000000"
     },
     {
-      "id": 1275031568,
+      "id": 2088677198,
       "title": "Peach",
       "backgroundColor": "#fed5b9",
       "textColor": "#000000"
     },
     {
-      "id": 1358905151,
+      "id": 2088677199,
       "title": "Red",
       "backgroundColor": "#ffc3c3",
       "textColor": "#000000"
     },
     {
-      "id": 1476352993,
+      "id": 2088677200,
       "title": "Pink",
       "backgroundColor": "#ffc7f6",
       "textColor": "#000000"
     },
     {
-      "id": 1589219200,
+      "id": 2088677201,
       "title": "Sand",
       "backgroundColor": "#e5d6cf",
       "textColor": "#000000"
     },
     {
-      "id": 1614009195,
+      "id": 2088677202,
       "title": "Green",
       "backgroundColor": "#b2eec8",
       "textColor": "#000000"
     },
     {
-      "id": 1627171124,
+      "id": 2088677203,
       "title": "Orange",
       "backgroundColor": "#fedfb3",
       "textColor": "#000000"
     },
     {
-      "id": 1661000646,
+      "id": 2088677204,
       "title": "Teal",
       "backgroundColor": "#9cf1e9",
       "textColor": "#000000"
     },
     {
-      "id": 1996477985,
+      "id": 2088677205,
       "title": "Yellow",
       "backgroundColor": "#feec98",
       "textColor": "#000000"
     },
     {
-      "id": 2088677115,
-      "title": "Sky Blue",
-      "backgroundColor": "#c0d8fe",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677116,
-      "title": "Lavender",
-      "backgroundColor": "#e2d0f5",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677117,
-      "title": "Lime",
-      "backgroundColor": "#cff5a0",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677118,
-      "title": "Blue",
-      "backgroundColor": "#94c7fe",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677119,
-      "title": "Purple",
-      "backgroundColor": "#d2a8fa",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677120,
-      "title": "Peach",
-      "backgroundColor": "#fed5b9",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677121,
-      "title": "Red",
-      "backgroundColor": "#ffc3c3",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677122,
-      "title": "Pink",
-      "backgroundColor": "#ffc7f6",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677123,
-      "title": "Sand",
-      "backgroundColor": "#e5d6cf",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677124,
-      "title": "Green",
-      "backgroundColor": "#b2eec8",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677125,
-      "title": "Orange",
-      "backgroundColor": "#fedfb3",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677126,
-      "title": "Teal",
-      "backgroundColor": "#9cf1e9",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677127,
-      "title": "Yellow",
-      "backgroundColor": "#feec98",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677128,
+      "id": 2088677206,
       "title": "Sky Blue",
       "backgroundColor": "#c0d8fe",
       "textColor": "#000000"
@@ -430,11 +352,11 @@
     "answeredQuestions": []
   },
   "channelProfile": {
-    "id": "ch_user_mvq804d0",
-    "name": "Meaza Nigussie",
-    "userName": "meaza_nigussie",
-    "handle": "@meaza_nigussie",
-    "code": "CH-9146",
+    "id": "ch_user_mvercj6e",
+    "name": "meazayes",
+    "userName": "meazayes",
+    "handle": "@meazayes",
+    "code": "CH-8185",
     "bio": "መንፈሳዊ ጥያቄዎችን፣ የንባብ ዕቅዶችንና ማጣቀሻዎችን አዘጋጃለሁ",
     "avatarIcon": "Book",
     "followersCount": 12
