@@ -1,13 +1,83 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1793109141365,
-  "lastDeviceId": "dev_mvq804f2_e8q6ln",
+  "lastSyncTimestamp": 1793109493099,
+  "lastDeviceId": "bd54a24d3cc3a394",
   "devices": [
     "bd54a24d3cc3a394",
     "dev_mvq804f2_e8q6ln"
   ],
   "marks": [
+    {
+      "id": 22,
+      "partIndex": 0,
+      "book": 2,
+      "chapter": 20,
+      "verse": 3,
+      "text": "መቅደሴን ያረክስ ዘንድ፥ የተቀደሰውንም ስሜን ያጐሰቍል ዘንድ ዘሩን ለሞሎክ ሰጥቶአልና እኔ በዚያ ሰው ላይ ፊቴን አከብዳለሁ፥ ከሕዝቡም መካከል ለይቼ አጠፋዋለሁ።",
+      "version": "am54",
+      "style": -1514505993,
+      "note": "",
+      "segment": "",
+      "time": "2026-10-17T13:22:56.042Z",
+      "bookname": "ኦሪት ዘሌዋውያን"
+    },
+    {
+      "id": 23,
+      "partIndex": 0,
+      "book": 2,
+      "chapter": 20,
+      "verse": 17,
+      "text": "ማናቸውም ሰው የአባቱን ልጅ ወይም የእናቱን ልጅ እኅቱን ቢያገባ፥ ኃፍረተ ሥጋዋንም ቢያይ፥ እርስዋም ኃፍረተ ሥጋውን ብታይ፥ ይህ ጸያፍ ነገር ነው፤ በሕዝባቸውም ልጆች ፊት ይገደሉ፤ የእኅቱን ኃፍረተ ሥጋ ገልጦአልና ኃጢአቱን ይሸከማል።",
+      "version": "am54",
+      "style": 1614009195,
+      "note": "",
+      "segment": "",
+      "time": "2026-10-17T13:49:31.065Z",
+      "bookname": "ኦሪት ዘሌዋውያን"
+    },
+    {
+      "id": 24,
+      "partIndex": 0,
+      "book": 3,
+      "chapter": 7,
+      "verse": 3,
+      "text": "መባቸውንም በእግዚአብሔር ፊት አቀረቡ፥ የተከደኑ ስድስት ሰረገሎች አሥራ ሁለትም በሬዎች፤ በየሁለቱም አለቆች አንድ ሰረገላ አቀረቡ፥ ሁሉም እያንዳንዱ አንድ በሬ በማደሪያው ፊት አቀረቡ።",
+      "version": "am54",
+      "style": 1614009195,
+      "note": "",
+      "segment": "",
+      "time": "2026-10-17T14:00:17.861Z",
+      "bookname": "ኦሪት ዘኍልቍ"
+    },
+    {
+      "id": 25,
+      "partIndex": 0,
+      "book": 3,
+      "chapter": 7,
+      "verse": 5,
+      "text": "ለመገናኛው ድንኳን ማገልገል ይሆን ዘንድ ከእነርሱ ተቀብለህ ለሌዋውያን ለእያንዳንዱ እንደ አገልግሎታቸው ስጣቸው።",
+      "version": "am54",
+      "style": 1358905151,
+      "note": "",
+      "segment": "",
+      "time": "2026-10-18T15:42:29.230Z",
+      "bookname": "ኦሪት ዘኍልቍ"
+    },
+    {
+      "id": 26,
+      "partIndex": 0,
+      "book": 0,
+      "chapter": 22,
+      "verse": 2,
+      "text": "የምትወደውን አንድ ልጅህን ይስሐቅን ይዘህ ወደ ሞሪያም ምድር ሂድ፤ እኔም በምነግርህ በአንድ ተራራ ላይ በዚያ መሥዋዕት አድርገህ ሠዋው አለ።",
+      "version": "am54",
+      "style": 1358905151,
+      "note": "",
+      "segment": "",
+      "time": "2026-10-27T13:35:51.620Z",
+      "bookname": "ኦሪት ዘፍጥረት"
+    },
     {
       "id": 18,
       "partIndex": 0,
@@ -175,231 +245,83 @@
       "segment": "0,9999,#ffc3c3",
       "time": "2026-10-27T05:03:23.225Z",
       "bookname": "የማቴዎስ ወንጌል"
-    },
-    {
-      "id": 30,
-      "partIndex": 0,
-      "book": 2,
-      "chapter": 20,
-      "verse": 3,
-      "text": "መቅደሴን ያረክስ ዘንድ፥ የተቀደሰውንም ስሜን ያጐሰቍል ዘንድ ዘሩን ለሞሎክ ሰጥቶአልና እኔ በዚያ ሰው ላይ ፊቴን አከብዳለሁ፥ ከሕዝቡም መካከል ለይቼ አጠፋዋለሁ።",
-      "version": "am54",
-      "style": -1514505993,
-      "note": "",
-      "segment": "",
-      "time": "2026-10-17T13:22:56.042Z",
-      "bookname": "ኦሪት ዘሌዋውያን"
-    },
-    {
-      "id": 31,
-      "partIndex": 0,
-      "book": 2,
-      "chapter": 20,
-      "verse": 17,
-      "text": "ማናቸውም ሰው የአባቱን ልጅ ወይም የእናቱን ልጅ እኅቱን ቢያገባ፥ ኃፍረተ ሥጋዋንም ቢያይ፥ እርስዋም ኃፍረተ ሥጋውን ብታይ፥ ይህ ጸያፍ ነገር ነው፤ በሕዝባቸውም ልጆች ፊት ይገደሉ፤ የእኅቱን ኃፍረተ ሥጋ ገልጦአልና ኃጢአቱን ይሸከማል።",
-      "version": "am54",
-      "style": 1614009195,
-      "note": "",
-      "segment": "",
-      "time": "2026-10-17T13:49:31.065Z",
-      "bookname": "ኦሪት ዘሌዋውያን"
-    },
-    {
-      "id": 32,
-      "partIndex": 0,
-      "book": 3,
-      "chapter": 7,
-      "verse": 3,
-      "text": "መባቸውንም በእግዚአብሔር ፊት አቀረቡ፥ የተከደኑ ስድስት ሰረገሎች አሥራ ሁለትም በሬዎች፤ በየሁለቱም አለቆች አንድ ሰረገላ አቀረቡ፥ ሁሉም እያንዳንዱ አንድ በሬ በማደሪያው ፊት አቀረቡ።",
-      "version": "am54",
-      "style": 1614009195,
-      "note": "",
-      "segment": "",
-      "time": "2026-10-17T14:00:17.861Z",
-      "bookname": "ኦሪት ዘኍልቍ"
-    },
-    {
-      "id": 33,
-      "partIndex": 0,
-      "book": 3,
-      "chapter": 7,
-      "verse": 5,
-      "text": "ለመገናኛው ድንኳን ማገልገል ይሆን ዘንድ ከእነርሱ ተቀብለህ ለሌዋውያን ለእያንዳንዱ እንደ አገልግሎታቸው ስጣቸው።",
-      "version": "am54",
-      "style": 1358905151,
-      "note": "",
-      "segment": "",
-      "time": "2026-10-18T15:42:29.230Z",
-      "bookname": "ኦሪት ዘኍልቍ"
-    },
-    {
-      "id": 34,
-      "partIndex": 0,
-      "book": 0,
-      "chapter": 22,
-      "verse": 2,
-      "text": "የምትወደውን አንድ ልጅህን ይስሐቅን ይዘህ ወደ ሞሪያም ምድር ሂድ፤ እኔም በምነግርህ በአንድ ተራራ ላይ በዚያ መሥዋዕት አድርገህ ሠዋው አለ።",
-      "version": "am54",
-      "style": 1358905151,
-      "note": "",
-      "segment": "",
-      "time": "2026-10-27T13:35:51.620Z",
-      "bookname": "ኦሪት ዘፍጥረት"
     }
   ],
   "highlightStyles": [
     {
-      "id": -2134466068,
+      "id": 2088677181,
       "title": "Lavender",
       "backgroundColor": "#e2d0f5",
       "textColor": "#000000"
     },
     {
-      "id": -2086343609,
+      "id": 2088677182,
       "title": "Lime",
       "backgroundColor": "#cff5a0",
       "textColor": "#000000"
     },
     {
-      "id": -1925473796,
+      "id": 2088677183,
       "title": "Blue",
       "backgroundColor": "#94c7fe",
       "textColor": "#000000"
     },
     {
-      "id": -1514505993,
+      "id": 2088677184,
       "title": "Purple",
       "backgroundColor": "#d2a8fa",
       "textColor": "#000000"
     },
     {
-      "id": 1275031568,
+      "id": 2088677185,
       "title": "Peach",
       "backgroundColor": "#fed5b9",
       "textColor": "#000000"
     },
     {
-      "id": 1358905151,
+      "id": 2088677186,
       "title": "Red",
       "backgroundColor": "#ffc3c3",
       "textColor": "#000000"
     },
     {
-      "id": 1476352993,
+      "id": 2088677187,
       "title": "Pink",
       "backgroundColor": "#ffc7f6",
       "textColor": "#000000"
     },
     {
-      "id": 1589219200,
+      "id": 2088677188,
       "title": "Sand",
       "backgroundColor": "#e5d6cf",
       "textColor": "#000000"
     },
     {
-      "id": 1614009195,
+      "id": 2088677189,
       "title": "Green",
       "backgroundColor": "#b2eec8",
       "textColor": "#000000"
     },
     {
-      "id": 1627171124,
+      "id": 2088677190,
       "title": "Orange",
       "backgroundColor": "#fedfb3",
       "textColor": "#000000"
     },
     {
-      "id": 1661000646,
+      "id": 2088677191,
       "title": "Teal",
       "backgroundColor": "#9cf1e9",
       "textColor": "#000000"
     },
     {
-      "id": 1996477985,
+      "id": 2088677192,
       "title": "Yellow",
       "backgroundColor": "#feec98",
       "textColor": "#000000"
     },
     {
-      "id": 2088677115,
-      "title": "Sky Blue",
-      "backgroundColor": "#c0d8fe",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677116,
-      "title": "Lavender",
-      "backgroundColor": "#e2d0f5",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677117,
-      "title": "Lime",
-      "backgroundColor": "#cff5a0",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677118,
-      "title": "Blue",
-      "backgroundColor": "#94c7fe",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677119,
-      "title": "Purple",
-      "backgroundColor": "#d2a8fa",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677120,
-      "title": "Peach",
-      "backgroundColor": "#fed5b9",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677121,
-      "title": "Red",
-      "backgroundColor": "#ffc3c3",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677122,
-      "title": "Pink",
-      "backgroundColor": "#ffc7f6",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677123,
-      "title": "Sand",
-      "backgroundColor": "#e5d6cf",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677124,
-      "title": "Green",
-      "backgroundColor": "#b2eec8",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677125,
-      "title": "Orange",
-      "backgroundColor": "#fedfb3",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677126,
-      "title": "Teal",
-      "backgroundColor": "#9cf1e9",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677127,
-      "title": "Yellow",
-      "backgroundColor": "#feec98",
-      "textColor": "#000000"
-    },
-    {
-      "id": 2088677128,
+      "id": 2088677193,
       "title": "Sky Blue",
       "backgroundColor": "#c0d8fe",
       "textColor": "#000000"
@@ -416,11 +338,11 @@
     "answeredQuestions": []
   },
   "channelProfile": {
-    "id": "ch_user_mvq804d0",
-    "name": "Meaza Nigussie",
-    "userName": "meaza_nigussie",
-    "handle": "@meaza_nigussie",
-    "code": "CH-9146",
+    "id": "ch_user_mvercj6e",
+    "name": "meazayes",
+    "userName": "meazayes",
+    "handle": "@meazayes",
+    "code": "CH-8185",
     "bio": "መንፈሳዊ ጥያቄዎችን፣ የንባብ ዕቅዶችንና ማጣቀሻዎችን አዘጋጃለሁ",
     "avatarIcon": "Book",
     "followersCount": 12
