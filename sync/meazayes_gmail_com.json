@@ -1,15 +1,19 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1793111647626,
-  "lastDeviceId": "bd54a24d3cc3a394",
+  "lastSyncTimestamp": 1793112865773,
+  "lastDeviceId": "dev_mvq804f2_e8q6ln",
   "devices": [
     "bd54a24d3cc3a394",
     "dev_mvq804f2_e8q6ln"
   ],
+  "bibleVersionId": "hq",
+  "currentVersion": "hq",
+  "versionId": "hq",
+  "parallelVersion": "kjv",
   "marks": [
     {
-      "id": 63,
+      "id": 53,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -20,10 +24,11 @@
       "note": "",
       "segment": "",
       "time": "2026-10-17T13:22:56.042Z",
-      "bookname": "ኦሪት ዘሌዋውያን"
+      "bookname": "ኦሪት ዘሌዋውያን",
+      "versionId": "am54"
     },
     {
-      "id": 64,
+      "id": 54,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -34,10 +39,11 @@
       "note": "",
       "segment": "",
       "time": "2026-10-17T13:49:31.065Z",
-      "bookname": "ኦሪት ዘሌዋውያን"
+      "bookname": "ኦሪት ዘሌዋውያን",
+      "versionId": "am54"
     },
     {
-      "id": 65,
+      "id": 55,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -48,7 +54,8 @@
       "note": "",
       "segment": "",
       "time": "2026-10-17T14:00:17.861Z",
-      "bookname": "ኦሪት ዘኍልቍ"
+      "bookname": "ኦሪት ዘኍልቍ",
+      "versionId": "am54"
     },
     {
       "id": 66,
@@ -62,7 +69,8 @@
       "note": "",
       "segment": "",
       "time": "2026-10-18T15:42:29.230Z",
-      "bookname": "ኦሪት ዘኍልቍ"
+      "bookname": "ኦሪት ዘኍልቍ",
+      "versionId": "am54"
     },
     {
       "id": 67,
@@ -76,7 +84,8 @@
       "note": "",
       "segment": "",
       "time": "2026-10-27T13:35:51.620Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 68,
@@ -90,7 +99,8 @@
       "note": "",
       "segment": "",
       "time": "2026-10-20T08:16:18.413Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 69,
@@ -104,7 +114,8 @@
       "note": "<div class=\"note-body\">qetqet</div>",
       "segment": "0,9999,#feec98",
       "time": "2026-10-20T08:42:32.054Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 70,
@@ -118,7 +129,8 @@
       "note": "",
       "segment": "0,78,1358905151",
       "time": "2026-10-20T08:42:07.011Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 71,
@@ -132,7 +144,8 @@
       "note": "",
       "segment": "0,9999,#94c7fe",
       "time": "2026-10-20T09:21:58.566Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 72,
@@ -146,7 +159,8 @@
       "note": "",
       "segment": "0,9999,#d2a8fa",
       "time": "2026-10-20T09:24:55.261Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 73,
@@ -160,7 +174,8 @@
       "note": "<div class=\"note-body\">qwe</div>",
       "segment": "0,9999,#94c7fe",
       "time": "2026-10-20T09:25:21.607Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 74,
@@ -174,7 +189,8 @@
       "note": "",
       "segment": "0,9999,#b2eec8",
       "time": "2026-10-20T09:59:50.225Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     },
     {
       "id": 75,
@@ -188,7 +204,8 @@
       "note": "<div class=\"note-body\">QWE</div>",
       "segment": "11,18,-2086343609",
       "time": "2026-10-26T15:40:55.281Z",
-      "bookname": "የማቴዎስ ወንጌል"
+      "bookname": "የማቴዎስ ወንጌል",
+      "versionId": "hq"
     },
     {
       "id": 76,
@@ -202,7 +219,8 @@
       "note": "",
       "segment": "0,9999,#feec98",
       "time": "2026-10-27T04:32:36.562Z",
-      "bookname": "የማቴዎስ ወንጌል"
+      "bookname": "የማቴዎስ ወንጌል",
+      "versionId": "hq"
     },
     {
       "id": 77,
@@ -216,7 +234,8 @@
       "note": "",
       "segment": "0,9999,#ffc3c3",
       "time": "2026-10-27T04:35:58.878Z",
-      "bookname": "የማቴዎስ ወንጌል"
+      "bookname": "የማቴዎስ ወንጌል",
+      "versionId": "hq"
     },
     {
       "id": 78,
@@ -230,7 +249,8 @@
       "note": "",
       "segment": "0,9999,#d2a8fa",
       "time": "2026-10-27T04:49:52.116Z",
-      "bookname": "የማቴዎስ ወንጌል"
+      "bookname": "የማቴዎስ ወንጌል",
+      "versionId": "hq"
     },
     {
       "id": 79,
@@ -244,7 +264,8 @@
       "note": "",
       "segment": "0,9999,#ffc3c3",
       "time": "2026-10-27T05:03:23.225Z",
-      "bookname": "የማቴዎስ ወንጌል"
+      "bookname": "የማቴዎስ ወንጌል",
+      "versionId": "hq"
     },
     {
       "id": 80,
@@ -258,7 +279,8 @@
       "note": "",
       "segment": "0,9999,#d2a8fa",
       "time": "2026-10-27T13:57:00.808Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "hq"
     },
     {
       "id": 81,
@@ -272,10 +294,167 @@
       "note": "",
       "segment": "",
       "time": "2026-10-27T14:29:51.566Z",
-      "bookname": "ኦሪት ዘፍጥረት"
+      "bookname": "ኦሪት ዘፍጥረት",
+      "versionId": "am54"
     }
   ],
   "highlightStyles": [
+    {
+      "id": -2134466068,
+      "title": "Lavender",
+      "backgroundColor": "#e2d0f5",
+      "textColor": "#000000"
+    },
+    {
+      "id": -2086343609,
+      "title": "Lime",
+      "backgroundColor": "#cff5a0",
+      "textColor": "#000000"
+    },
+    {
+      "id": -1925473796,
+      "title": "Blue",
+      "backgroundColor": "#94c7fe",
+      "textColor": "#000000"
+    },
+    {
+      "id": -1514505993,
+      "title": "Purple",
+      "backgroundColor": "#d2a8fa",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1275031568,
+      "title": "Peach",
+      "backgroundColor": "#fed5b9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1358905151,
+      "title": "Red",
+      "backgroundColor": "#ffc3c3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1476352993,
+      "title": "Pink",
+      "backgroundColor": "#ffc7f6",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1589219200,
+      "title": "Sand",
+      "backgroundColor": "#e5d6cf",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1614009195,
+      "title": "Green",
+      "backgroundColor": "#b2eec8",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1627171124,
+      "title": "Orange",
+      "backgroundColor": "#fedfb3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1661000646,
+      "title": "Teal",
+      "backgroundColor": "#9cf1e9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 1996477985,
+      "title": "Yellow",
+      "backgroundColor": "#feec98",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677115,
+      "title": "Sky Blue",
+      "backgroundColor": "#c0d8fe",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677116,
+      "title": "Lavender",
+      "backgroundColor": "#e2d0f5",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677117,
+      "title": "Lime",
+      "backgroundColor": "#cff5a0",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677118,
+      "title": "Blue",
+      "backgroundColor": "#94c7fe",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677119,
+      "title": "Purple",
+      "backgroundColor": "#d2a8fa",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677120,
+      "title": "Peach",
+      "backgroundColor": "#fed5b9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677121,
+      "title": "Red",
+      "backgroundColor": "#ffc3c3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677122,
+      "title": "Pink",
+      "backgroundColor": "#ffc7f6",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677123,
+      "title": "Sand",
+      "backgroundColor": "#e5d6cf",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677124,
+      "title": "Green",
+      "backgroundColor": "#b2eec8",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677125,
+      "title": "Orange",
+      "backgroundColor": "#fedfb3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677126,
+      "title": "Teal",
+      "backgroundColor": "#9cf1e9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677127,
+      "title": "Yellow",
+      "backgroundColor": "#feec98",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677128,
+      "title": "Sky Blue",
+      "backgroundColor": "#c0d8fe",
+      "textColor": "#000000"
+    },
     {
       "id": 2088677220,
       "title": "Lavender",
@@ -366,11 +545,11 @@
     "answeredQuestions": []
   },
   "channelProfile": {
-    "id": "ch_user_mvercj6e",
-    "name": "meazayes",
-    "userName": "meazayes",
-    "handle": "@meazayes",
-    "code": "CH-8185",
+    "id": "ch_user_mvq804d0",
+    "name": "Meaza Nigussie",
+    "userName": "meaza_nigussie",
+    "handle": "@meaza_nigussie",
+    "code": "CH-9146",
     "bio": "መንፈሳዊ ጥያቄዎችን፣ የንባብ ዕቅዶችንና ማጣቀሻዎችን አዘጋጃለሁ",
     "avatarIcon": "Book",
     "followersCount": 12
