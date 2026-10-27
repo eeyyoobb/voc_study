@@ -1,7 +1,7 @@
 {
   "version": 1,
   "accountEmail": "meazayes@gmail.com",
-  "lastSyncTimestamp": 1793108181929,
+  "lastSyncTimestamp": 1793109141365,
   "lastDeviceId": "dev_mvq804f2_e8q6ln",
   "devices": [
     "bd54a24d3cc3a394",
@@ -9,22 +9,22 @@
   ],
   "marks": [
     {
-      "id": 3,
-      "partIndex": null,
+      "id": 18,
+      "partIndex": 0,
       "book": 0,
       "chapter": 1,
       "verse": 1,
       "text": "በመጀመሪያ እግዚአብሔር ሰማይንና ምድርን ፈጠረ።",
       "version": "am54",
-      "style": null,
-      "note": null,
+      "style": 1,
+      "note": "",
       "segment": "",
       "time": "2026-10-20T08:16:18.413Z",
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 4,
-      "partIndex": null,
+      "id": 19,
+      "partIndex": 0,
       "book": 0,
       "chapter": 1,
       "verse": 4,
@@ -37,8 +37,8 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 7,
-      "partIndex": null,
+      "id": 20,
+      "partIndex": 0,
       "book": 0,
       "chapter": 1,
       "verse": 2,
@@ -51,8 +51,8 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 9,
-      "partIndex": null,
+      "id": 21,
+      "partIndex": 0,
       "book": 0,
       "chapter": 1,
       "verse": 5,
@@ -65,8 +65,8 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 10,
-      "partIndex": null,
+      "id": 22,
+      "partIndex": 0,
       "book": 0,
       "chapter": 2,
       "verse": 5,
@@ -79,8 +79,8 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 11,
-      "partIndex": null,
+      "id": 23,
+      "partIndex": 0,
       "book": 0,
       "chapter": 2,
       "verse": 4,
@@ -93,8 +93,8 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 12,
-      "partIndex": null,
+      "id": 24,
+      "partIndex": 0,
       "book": 0,
       "chapter": 1,
       "verse": 6,
@@ -107,8 +107,8 @@
       "bookname": "ኦሪት ዘፍጥረት"
     },
     {
-      "id": 13,
-      "partIndex": null,
+      "id": 25,
+      "partIndex": 0,
       "book": 39,
       "chapter": 4,
       "verse": 3,
@@ -121,8 +121,8 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 14,
-      "partIndex": null,
+      "id": 26,
+      "partIndex": 0,
       "book": 39,
       "chapter": 4,
       "verse": 4,
@@ -135,8 +135,8 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 15,
-      "partIndex": null,
+      "id": 27,
+      "partIndex": 0,
       "book": 39,
       "chapter": 4,
       "verse": 5,
@@ -149,8 +149,8 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 16,
-      "partIndex": null,
+      "id": 28,
+      "partIndex": 0,
       "book": 39,
       "chapter": 4,
       "verse": 6,
@@ -163,8 +163,8 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 17,
-      "partIndex": null,
+      "id": 29,
+      "partIndex": 0,
       "book": 39,
       "chapter": 4,
       "verse": 7,
@@ -177,7 +177,7 @@
       "bookname": "የማቴዎስ ወንጌል"
     },
     {
-      "id": 17,
+      "id": 30,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -191,7 +191,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 18,
+      "id": 31,
       "partIndex": 0,
       "book": 2,
       "chapter": 20,
@@ -205,7 +205,7 @@
       "bookname": "ኦሪት ዘሌዋውያን"
     },
     {
-      "id": 19,
+      "id": 32,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -219,7 +219,7 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 20,
+      "id": 33,
       "partIndex": 0,
       "book": 3,
       "chapter": 7,
@@ -233,16 +233,16 @@
       "bookname": "ኦሪት ዘኍልቍ"
     },
     {
-      "id": 21,
-      "partIndex": null,
+      "id": 34,
+      "partIndex": 0,
       "book": 0,
       "chapter": 22,
       "verse": 2,
       "text": "የምትወደውን አንድ ልጅህን ይስሐቅን ይዘህ ወደ ሞሪያም ምድር ሂድ፤ እኔም በምነግርህ በአንድ ተራራ ላይ በዚያ መሥዋዕት አድርገህ ሠዋው አለ።",
       "version": "am54",
       "style": 1358905151,
-      "note": null,
-      "segment": null,
+      "note": "",
+      "segment": "",
       "time": "2026-10-27T13:35:51.620Z",
       "bookname": "ኦሪት ዘፍጥረት"
     }
@@ -322,6 +322,84 @@
     },
     {
       "id": 2088677115,
+      "title": "Sky Blue",
+      "backgroundColor": "#c0d8fe",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677116,
+      "title": "Lavender",
+      "backgroundColor": "#e2d0f5",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677117,
+      "title": "Lime",
+      "backgroundColor": "#cff5a0",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677118,
+      "title": "Blue",
+      "backgroundColor": "#94c7fe",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677119,
+      "title": "Purple",
+      "backgroundColor": "#d2a8fa",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677120,
+      "title": "Peach",
+      "backgroundColor": "#fed5b9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677121,
+      "title": "Red",
+      "backgroundColor": "#ffc3c3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677122,
+      "title": "Pink",
+      "backgroundColor": "#ffc7f6",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677123,
+      "title": "Sand",
+      "backgroundColor": "#e5d6cf",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677124,
+      "title": "Green",
+      "backgroundColor": "#b2eec8",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677125,
+      "title": "Orange",
+      "backgroundColor": "#fedfb3",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677126,
+      "title": "Teal",
+      "backgroundColor": "#9cf1e9",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677127,
+      "title": "Yellow",
+      "backgroundColor": "#feec98",
+      "textColor": "#000000"
+    },
+    {
+      "id": 2088677128,
       "title": "Sky Blue",
       "backgroundColor": "#c0d8fe",
       "textColor": "#000000"
