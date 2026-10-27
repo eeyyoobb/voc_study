@@ -7,8 +7,8 @@
     "name": "Meaza Nigussie",
     "approved": true,
     "createdAt": "2026-10-19T08:44:23.405Z",
-    "lastLoginAt": "2026-10-19T08:45:19.587Z",
-    "role": "admin"
+    "lastLoginAt": "2026-10-27T12:24:21.292Z",
+    "role": "creator"
   },
   {
     "email": "yesjobkb@gmail.com",
@@ -19,6 +19,6 @@
     "approved": true,
     "createdAt": "2026-10-19T08:44:23.405Z",
     "lastLoginAt": "2026-10-19T08:45:31.000Z",
-    "role": "creator"
+    "role": "admin"
   }
 ]
